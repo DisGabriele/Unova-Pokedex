@@ -3,7 +3,7 @@
     {
         "num": 494,
         "name": "Victini",
-        "type": [
+        "types": [
             "Psico",
             "Fuoco"
         ],
@@ -15,7 +15,7 @@
     {
         "num": 495,
         "name": "Snivy",
-        "type": [
+        "types": [
             "Erba"
         ],
         "height": 0.6,
@@ -26,7 +26,7 @@
     {
         "num": 496,
         "name": "Servine",
-        "type": [
+        "types": [
             "Erba"
         ],
         "height": 0.8,
@@ -37,7 +37,7 @@
     {
         "num": 497,
         "name": "Serperior",
-        "type": [
+        "types": [
             "Erba"
         ],
         "height": 3.3,
@@ -48,7 +48,7 @@
     {
         "num": 498,
         "name": "Tepig",
-        "type": [
+        "types": [
             "Fuoco"
         ],
         "height": 0.5,
@@ -59,7 +59,7 @@
     {
         "num": 499,
         "name": "Pignite",
-        "type": [
+        "types": [
             "Fuoco",
             "Lotta"
         ],
@@ -71,7 +71,7 @@
     {
         "num": 500,
         "name": "Emboar",
-        "type": [
+        "types": [
             "Fuoco",
             "Lotta"
         ],
@@ -83,7 +83,7 @@
     {
         "num": 501,
         "name": "Oshawott",
-        "type": [
+        "types": [
             "Acqua"
         ],
         "height": 0.5,
@@ -94,7 +94,7 @@
     {
         "num": 502,
         "name": "Dewott",
-        "type": [
+        "types": [
             "Acqua"
         ],
         "height": 0.8,
@@ -105,7 +105,7 @@
     {
         "num": 503,
         "name": "Samurott",
-        "type": [
+        "types": [
             "Acqua"
         ],
         "height": 1.5,
@@ -116,7 +116,7 @@
     {
         "num": 504,
         "name": "Patrat",
-        "type": [
+        "types": [
             "Normale"
         ],
         "height": 0.5,
@@ -127,7 +127,7 @@
     {
         "num": 505,
         "name": "Watchog",
-        "type": [
+        "types": [
             "Normale"
         ],
         "height": 1.1,
@@ -138,7 +138,7 @@
     {
         "num": 506,
         "name": "Lillipup",
-        "type": [
+        "types": [
             "Normale"
         ],
         "height": 0.4,
@@ -149,7 +149,7 @@
     {
         "num": 507,
         "name": "Herdier",
-        "type": [
+        "types": [
             "Normale"
         ],
         "height": 0.9,
@@ -160,7 +160,7 @@
     {
         "num": 508,
         "name": "Stoutland",
-        "type": [
+        "types": [
             "Normale"
         ],
         "height": 1.2,
@@ -171,7 +171,7 @@
     {
         "num": 509,
         "name": "Purrloin",
-        "type": [
+        "types": [
             "Buio"
         ],
         "height": 0.4,
@@ -182,7 +182,7 @@
     {
         "num": 510,
         "name": "Liepard",
-        "type": [
+        "types": [
             "Buio"
         ],
         "height": 1.1,
@@ -193,7 +193,7 @@
     {
         "num": 511,
         "name": "Pansage",
-        "type": [
+        "types": [
             "Erba"
         ],
         "height": 0.6,
@@ -204,7 +204,7 @@
     {
         "num": 512,
         "name": "Simisage",
-        "type": [
+        "types": [
             "Erba"
         ],
         "height": 1.1,
@@ -215,7 +215,7 @@
     {
         "num": 513,
         "name": "Pansear",
-        "type": [
+        "types": [
             "Fuoco"
         ],
         "height": 0.6,
@@ -226,7 +226,7 @@
     {
         "num": 514,
         "name": "Simisear",
-        "type": [
+        "types": [
             "Fuoco"
         ],
         "height": 1,
@@ -237,7 +237,7 @@
     {
         "num": 515,
         "name": "Panpour",
-        "type": [
+        "types": [
             "Acqua"
         ],
         "height": 0.6,
@@ -248,7 +248,7 @@
     {
         "num": 516,
         "name": "Simipour",
-        "type": [
+        "types": [
             "Acqua"
         ],
         "height": 1,
@@ -259,7 +259,7 @@
     {
         "num": 517,
         "name": "Munna",
-        "type": [
+        "types": [
             "Psico"
         ],
         "height": 0.6,
@@ -270,7 +270,7 @@
     {
         "num": 518,
         "name": "Musharna",
-        "type": [
+        "types": [
             "Psico"
         ],
         "height": 1.1,
@@ -281,7 +281,7 @@
     {
         "num": 519,
         "name": "Pidove",
-        "type": [
+        "types": [
             "Normale",
             "Volante"
         ],
@@ -293,7 +293,7 @@
     {
         "num": 520,
         "name": "Tranquill",
-        "type": [
+        "types": [
             "Normale",
             "Volante"
         ],
@@ -305,7 +305,7 @@
     {
         "num": 521,
         "name": "Unfezant",
-        "type": [
+        "types": [
             "Normale",
             "Volante"
         ],
@@ -317,7 +317,7 @@
     {
         "num": 522,
         "name": "Blitzle",
-        "type": [
+        "types": [
             "Elettro"
         ],
         "height": 0.8,
@@ -328,7 +328,7 @@
     {
         "num": 523,
         "name": "Zebstrika",
-        "type": [
+        "types": [
             "Elettro"
         ],
         "height": 1.6,
@@ -339,7 +339,7 @@
     {
         "num": 524,
         "name": "Roggenrola",
-        "type": [
+        "types": [
             "Roccia"
         ],
         "height": 0.4,
@@ -350,7 +350,7 @@
     {
         "num": 525,
         "name": "Boldore",
-        "type": [
+        "types": [
             "Roccia"
         ],
         "height": 0.9,
@@ -361,7 +361,7 @@
     {
         "num": 526,
         "name": "Gigalith",
-        "type": [
+        "types": [
             "Roccia"
         ],
         "height": 1.7,
@@ -372,7 +372,7 @@
     {
         "num": 527,
         "name": "Woobat",
-        "type": [
+        "types": [
             "Psico",
             "Volante"
         ],
@@ -384,7 +384,7 @@
     {
         "num": 528,
         "name": "Swoobat",
-        "type": [
+        "types": [
             "Psico",
             "Volante"
         ],
@@ -396,7 +396,7 @@
     {
         "num": 529,
         "name": "Drilbur",
-        "type": [
+        "types": [
             "Terra"
         ],
         "height": 0.3,
@@ -407,7 +407,7 @@
     {
         "num": 530,
         "name": "Excadrill",
-        "type": [
+        "types": [
             "Terra",
             "Acciaio"
         ],
@@ -419,7 +419,7 @@
     {
         "num": 531,
         "name": "Audino",
-        "type": [
+        "types": [
             "Normale"
         ],
         "height": 1.1,
@@ -430,7 +430,7 @@
     {
         "num": 532,
         "name": "Timburr",
-        "type": [
+        "types": [
             "Lotta"
         ],
         "height": 0.6,
@@ -441,7 +441,7 @@
     {
         "num": 533,
         "name": "Gurdurr",
-        "type": [
+        "types": [
             "Lotta"
         ],
         "height": 1.2,
@@ -452,7 +452,7 @@
     {
         "num": 534,
         "name": "Conkeldurr",
-        "type": [
+        "types": [
             "Lotta"
         ],
         "height": 1.4,
@@ -463,7 +463,7 @@
     {
         "num": 535,
         "name": "Tympole",
-        "type": [
+        "types": [
             "Acqua"
         ],
         "height": 0.5,
@@ -474,7 +474,7 @@
     {
         "num": 536,
         "name": "Palpitoad",
-        "type": [
+        "types": [
             "Acqua",
             "Terra"
         ],
@@ -486,7 +486,7 @@
     {
         "num": 537,
         "name": "Seismitoad",
-        "type": [
+        "types": [
             "Acqua",
             "Terra"
         ],
@@ -498,7 +498,7 @@
     {
         "num": 538,
         "name": "Throh",
-        "type": [
+        "types": [
             "Lotta"
         ],
         "height": 1.3,
@@ -509,7 +509,7 @@
     {
         "num": 539,
         "name": "Sawk",
-        "type": [
+        "types": [
             "Lotta"
         ],
         "height": 1.4,
@@ -520,7 +520,7 @@
     {
         "num": 540,
         "name": "Sewaddle",
-        "type": [
+        "types": [
             "Coleott.",
             "Erba"
         ],
@@ -532,7 +532,7 @@
     {
         "num": 541,
         "name": "Swadloon",
-        "type": [
+        "types": [
             "Coleott.",
             "Erba"
         ],
@@ -544,7 +544,7 @@
     {
         "num": 542,
         "name": "Leavanny",
-        "type": [
+        "types": [
             "Coleott.",
             "Erba"
         ],
@@ -556,7 +556,7 @@
     {
         "num": 543,
         "name": "Venipede",
-        "type": [
+        "types": [
             "Coleott.",
             "Veleno"
         ],
@@ -568,7 +568,7 @@
     {
         "num": 544,
         "name": "Whirlipede",
-        "type": [
+        "types": [
             "Coleott.",
             "Veleno"
         ],
@@ -580,7 +580,7 @@
     {
         "num": 545,
         "name": "Scolipede",
-        "type": [
+        "types": [
             "Coleott.",
             "Veleno"
         ],
@@ -592,7 +592,7 @@
     {
         "num": 546,
         "name": "Cottonee",
-        "type": [
+        "types": [
             "Erba",
             "Fairy"
         ],
@@ -604,7 +604,7 @@
     {
         "num": 547,
         "name": "Whimsicott",
-        "type": [
+        "types": [
             "Erba",
             "Fairy"
         ],
@@ -616,7 +616,7 @@
     {
         "num": 548,
         "name": "Petilil",
-        "type": [
+        "types": [
             "Erba"
         ],
         "height": 0.5,
@@ -627,7 +627,7 @@
     {
         "num": 549,
         "name": "Lilligant",
-        "type": [
+        "types": [
             "Erba"
         ],
         "height": 1.1,
@@ -638,7 +638,7 @@
     {
         "num": 550,
         "name": "Basculin",
-        "type": [
+        "types": [
             "Acqua"
         ],
         "height": 1,
@@ -649,7 +649,7 @@
     {
         "num": 551,
         "name": "Sandile",
-        "type": [
+        "types": [
             "Terra",
             "Buio"
         ],
@@ -661,7 +661,7 @@
     {
         "num": 552,
         "name": "Krokorok",
-        "type": [
+        "types": [
             "Terra",
             "Buio"
         ],
@@ -673,7 +673,7 @@
     {
         "num": 553,
         "name": "Krookodile",
-        "type": [
+        "types": [
             "Terra",
             "Buio"
         ],
@@ -685,7 +685,7 @@
     {
         "num": 554,
         "name": "Darumaka",
-        "type": [
+        "types": [
             "Fuoco"
         ],
         "height": 0.6,
@@ -696,7 +696,7 @@
     {
         "num": 555,
         "name": "Darmanitan",
-        "type": [
+        "types": [
             "Fuoco"
         ],
         "height": 1.3,
@@ -707,7 +707,7 @@
     {
         "num": 556,
         "name": "Maractus",
-        "type": [
+        "types": [
             "Erba"
         ],
         "height": 1,
@@ -718,7 +718,7 @@
     {
         "num": 557,
         "name": "Dwebble",
-        "type": [
+        "types": [
             "Coleott.",
             "Roccia"
         ],
@@ -730,7 +730,7 @@
     {
         "num": 558,
         "name": "Crustle",
-        "type": [
+        "types": [
             "Coleott.",
             "Roccia"
         ],
@@ -742,7 +742,7 @@
     {
         "num": 559,
         "name": "Scraggy",
-        "type": [
+        "types": [
             "Buio",
             "Lotta"
         ],
@@ -754,7 +754,7 @@
     {
         "num": 560,
         "name": "Scrafty",
-        "type": [
+        "types": [
             "Buio",
             "Lotta"
         ],
@@ -766,7 +766,7 @@
     {
         "num": 561,
         "name": "Sigilyph",
-        "types": [
+        "typess": [
             "Psico",
             "Volante"
         ],
@@ -778,7 +778,7 @@
     {
         "num": 562,
         "name": "Yamask",
-        "types": [
+        "typess": [
             "Spettro"
         ],
         "height": 0.5,
@@ -789,7 +789,7 @@
     {
         "num": 563,
         "name": "Cofagrigus",
-        "types": [
+        "typess": [
             "Spettro"
         ],
         "height": 1.7,
@@ -800,7 +800,7 @@
     {
         "num": 564,
         "name": "Tirtouga",
-        "types": [
+        "typess": [
             "Acqua",
             "Roccia"
         ],
@@ -812,7 +812,7 @@
     {
         "num": 565,
         "name": "Carracosta",
-        "types": [
+        "typess": [
             "Acqua",
             "Roccia"
         ],
@@ -824,7 +824,7 @@
     {
         "num": 566,
         "name": "Archen",
-        "types": [
+        "typess": [
             "Roccia",
             "Volante"
         ],
@@ -836,7 +836,7 @@
     {
         "num": 567,
         "name": "Archeops",
-        "types": [
+        "typess": [
             "Roccia",
             "Volante"
         ],
@@ -848,7 +848,7 @@
     {
         "num": 568,
         "name": "Trubbish",
-        "types": [
+        "typess": [
             "Veleno"
         ],
         "height": 0.6,
@@ -859,7 +859,7 @@
     {
         "num": 569,
         "name": "Garbodor",
-        "types": [
+        "typess": [
             "Veleno"
         ],
         "height": 1.9,
@@ -870,7 +870,7 @@
     {
         "num": 570,
         "name": "Zorua",
-        "types": [
+        "typess": [
             "Buio"
         ],
         "height": 0.7,
@@ -881,7 +881,7 @@
     {
         "num": 571,
         "name": "Zoroark",
-        "types": [
+        "typess": [
             "Buio"
         ],
         "height": 1.6,
@@ -892,7 +892,7 @@
     {
         "num": 572,
         "name": "Minccino",
-        "types": [
+        "typess": [
             "Normale"
         ],
         "height": 0.4,
@@ -903,7 +903,7 @@
     {
         "num": 573,
         "name": "Cinccino",
-        "types": [
+        "typess": [
             "Normale"
         ],
         "height": 0.5,
@@ -914,7 +914,7 @@
     {
         "num": 574,
         "name": "Gothita",
-        "types": [
+        "typess": [
             "Psico"
         ],
         "height": 0.4,
@@ -925,7 +925,7 @@
     {
         "num": 575,
         "name": "Gothorita",
-        "types": [
+        "typess": [
             "Psico"
         ],
         "height": 0.7,
@@ -936,7 +936,7 @@
     {
         "num": 576,
         "name": "Gothitelle",
-        "types": [
+        "typess": [
             "Psico"
         ],
         "height": 1.5,
@@ -947,7 +947,7 @@
     {
         "num": 577,
         "name": "Solosis",
-        "types": [
+        "typess": [
             "Psico"
         ],
         "height": 0.3,
@@ -958,7 +958,7 @@
     {
         "num": 578,
         "name": "Duosion",
-        "types": [
+        "typess": [
             "Psico"
         ],
         "height": 0.6,
@@ -969,7 +969,7 @@
     {
         "num": 579,
         "name": "Reuniclus",
-        "types": [
+        "typess": [
             "Psico"
         ],
         "height": 1,
@@ -980,7 +980,7 @@
     {
         "num": 580,
         "name": "Ducklett",
-        "types": [
+        "typess": [
             "Acqua",
             "Volante"
         ],
@@ -992,7 +992,7 @@
     {
         "num": 581,
         "name": "Swanna",
-        "types": [
+        "typess": [
             "Acqua",
             "Volante"
         ],
@@ -1004,7 +1004,7 @@
     {
         "num": 582,
         "name": "Vanillite",
-        "types": [
+        "typess": [
             "Ghiaccio"
         ],
         "height": 0.4,
@@ -1015,7 +1015,7 @@
     {
         "num": 583,
         "name": "Vanillish",
-        "types": [
+        "typess": [
             "Ghiaccio"
         ],
         "height": 1.1,
@@ -1026,7 +1026,7 @@
     {
         "num": 584,
         "name": "Vanilluxe",
-        "types": [
+        "typess": [
             "Ghiaccio"
         ],
         "height": 1.3,
@@ -1037,7 +1037,7 @@
     {
         "num": 585,
         "name": "Deerling",
-        "types": [
+        "typess": [
             "Normale",
             "Erba"
         ],
@@ -1049,7 +1049,7 @@
     {
         "num": 586,
         "name": "Sawsbuck",
-        "types": [
+        "typess": [
             "Normale",
             "Erba"
         ],
@@ -1061,7 +1061,7 @@
     {
         "num": 587,
         "name": "Emolga",
-        "types": [
+        "typess": [
             "Elettro",
             "Volante"
         ],
@@ -1073,7 +1073,7 @@
     {
         "num": 588,
         "name": "Karrablast",
-        "types": [
+        "typess": [
             "Coleott."
         ],
         "height": 0.5,
@@ -1084,7 +1084,7 @@
     {
         "num": 589,
         "name": "Escavalier",
-        "types": [
+        "typess": [
             "Coleott.",
             "Acciaio"
         ],
@@ -1096,7 +1096,7 @@
     {
         "num": 590,
         "name": "Foongus",
-        "types": [
+        "typess": [
             "Erba",
             "Veleno"
         ],
@@ -1108,7 +1108,7 @@
     {
         "num": 591,
         "name": "Amoonguss",
-        "types": [
+        "typess": [
             "Erba",
             "Veleno"
         ],
@@ -1120,7 +1120,7 @@
     {
         "num": 592,
         "name": "Frillish",
-        "types": [
+        "typess": [
             "Acqua",
             "Spettro"
         ],
@@ -1132,7 +1132,7 @@
     {
         "num": 593,
         "name": "Jellicent",
-        "types": [
+        "typess": [
             "Acqua",
             "Spettro"
         ],
@@ -1144,7 +1144,7 @@
     {
         "num": 594,
         "name": "Alomomola",
-        "types": [
+        "typess": [
             "Acqua"
         ],
         "height": 1.2,
@@ -1155,7 +1155,7 @@
     {
         "num": 595,
         "name": "Joltik",
-        "types": [
+        "typess": [
             "Coleott.",
             "Elettro"
         ],
@@ -1167,7 +1167,7 @@
     {
         "num": 596,
         "name": "Galvantula",
-        "types": [
+        "typess": [
             "Coleott.",
             "Elettro"
         ],
@@ -1179,7 +1179,7 @@
     {
         "num": 597,
         "name": "Ferroseed",
-        "types": [
+        "typess": [
             "Erba",
             "Acciaio"
         ],
@@ -1191,7 +1191,7 @@
     {
         "num": 598,
         "name": "Ferrothorn",
-        "types": [
+        "typess": [
             "Erba",
             "Acciaio"
         ],
@@ -1203,7 +1203,7 @@
     {
         "num": 599,
         "name": "Klink",
-        "types": [
+        "typess": [
             "Acciaio"
         ],
         "height": 0.3,
@@ -1214,7 +1214,7 @@
     {
         "num": 600,
         "name": "Klang",
-        "types": [
+        "typess": [
             "Acciaio"
         ],
         "height": 0.6,
@@ -1225,7 +1225,7 @@
     {
         "num": 601,
         "name": "Klinklang",
-        "types": [
+        "typess": [
             "Acciaio"
         ],
         "height": 0.6,
@@ -1236,7 +1236,7 @@
     {
         "num": 602,
         "name": "Tynamo",
-        "types": [
+        "typess": [
             "Elettro"
         ],
         "height": 0.2,
@@ -1247,7 +1247,7 @@
     {
         "num": 603,
         "name": "Eelektrik",
-        "types": [
+        "typess": [
             "Elettro"
         ],
         "height": 1.2,
@@ -1258,7 +1258,7 @@
     {
         "num": 604,
         "name": "Eelektross",
-        "types": [
+        "typess": [
             "Elettro"
         ],
         "height": 2.1,
@@ -1269,7 +1269,7 @@
     {
         "num": 605,
         "name": "Elgyem",
-        "types": [
+        "typess": [
             "Psico"
         ],
         "height": 0.5,
@@ -1280,7 +1280,7 @@
     {
         "num": 606,
         "name": "Beheeyem",
-        "types": [
+        "typess": [
             "Psico"
         ],
         "height": 1,
@@ -1291,7 +1291,7 @@
     {
         "num": 607,
         "name": "Litwick",
-        "types": [
+        "typess": [
             "Spettro",
             "Fuoco"
         ],
@@ -1303,7 +1303,7 @@
     {
         "num": 608,
         "name": "Lampent",
-        "types": [
+        "typess": [
             "Spettro",
             "Fuoco"
         ],
@@ -1315,7 +1315,7 @@
     {
         "num": 609,
         "name": "Chandelure",
-        "types": [
+        "typess": [
             "Spettro",
             "Fuoco"
         ],
@@ -1327,7 +1327,7 @@
     {
         "num": 610,
         "name": "Axew",
-        "types": [
+        "typess": [
             "Drago"
         ],
         "height": 0.6,
@@ -1338,7 +1338,7 @@
     {
         "num": 611,
         "name": "Fraxure",
-        "types": [
+        "typess": [
             "Drago"
         ],
         "height": 1,
@@ -1349,7 +1349,7 @@
     {
         "num": 612,
         "name": "Haxorus",
-        "types": [
+        "typess": [
             "Drago"
         ],
         "height": 1.8,
@@ -1360,7 +1360,7 @@
     {
         "num": 613,
         "name": "Cubchoo",
-        "types": [
+        "typess": [
             "Ghiaccio"
         ],
         "height": 0.5,
@@ -1371,7 +1371,7 @@
     {
         "num": 614,
         "name": "Beartic",
-        "types": [
+        "typess": [
             "Ghiaccio"
         ],
         "height": 2.6,
@@ -1382,7 +1382,7 @@
     {
         "num": 615,
         "name": "Cryogonal",
-        "types": [
+        "typess": [
             "Ghiaccio"
         ],
         "height": 1.1,
@@ -1393,7 +1393,7 @@
     {
         "num": 616,
         "name": "Shelmet",
-        "types": [
+        "typess": [
             "Coleott."
         ],
         "height": 0.4,
@@ -1404,7 +1404,7 @@
     {
         "num": 617,
         "name": "Accelgor",
-        "types": [
+        "typess": [
             "Coleott."
         ],
         "height": 0.8,
@@ -1415,7 +1415,7 @@
     {
         "num": 618,
         "name": "Stunfisk",
-        "types": [
+        "typess": [
             "Terra",
             "Elettro"
         ],
@@ -1427,7 +1427,7 @@
     {
         "num": 619,
         "name": "Mienfoo",
-        "types": [
+        "typess": [
             "Lotta"
         ],
         "height": 0.9,
@@ -1438,7 +1438,7 @@
     {
         "num": 620,
         "name": "Mienshao",
-        "types": [
+        "typess": [
             "Lotta"
         ],
         "height": 1.4,
@@ -1449,7 +1449,7 @@
     {
         "num": 621,
         "name": "Druddigon",
-        "types": [
+        "typess": [
             "Drago"
         ],
         "height": 1.6,
@@ -1460,7 +1460,7 @@
     {
         "num": 622,
         "name": "Golett",
-        "types": [
+        "typess": [
             "Terra",
             "Spettro"
         ],
@@ -1472,7 +1472,7 @@
     {
         "num": 623,
         "name": "Golurk",
-        "types": [
+        "typess": [
             "Terra",
             "Spettro"
         ],
@@ -1484,7 +1484,7 @@
     {
         "num": 624,
         "name": "Pawniard",
-        "types": [
+        "typess": [
             "Buio",
             "Acciaio"
         ],
@@ -1496,7 +1496,7 @@
     {
         "num": 625,
         "name": "Bisharp",
-        "types": [
+        "typess": [
             "Buio",
             "Acciaio"
         ],
@@ -1508,7 +1508,7 @@
     {
         "num": 626,
         "name": "Bouffalant",
-        "types": [
+        "typess": [
             "Normale"
         ],
         "height": 1.6,
@@ -1519,7 +1519,7 @@
     {
         "num": 627,
         "name": "Rufflet",
-        "types": [
+        "typess": [
             "Normale",
             "Volante"
         ],
@@ -1531,7 +1531,7 @@
     {
         "num": 628,
         "name": "Braviary",
-        "types": [
+        "typess": [
             "Normale",
             "Volante"
         ],
@@ -1543,7 +1543,7 @@
     {
         "num": 629,
         "name": "Vullaby",
-        "types": [
+        "typess": [
             "Buio",
             "Volante"
         ],
@@ -1555,7 +1555,7 @@
     {
         "num": 630,
         "name": "Mandibuzz",
-        "types": [
+        "typess": [
             "Buio",
             "Volante"
         ],
@@ -1567,7 +1567,7 @@
     {
         "num": 631,
         "name": "Heatmor",
-        "types": [
+        "typess": [
             "Fuoco"
         ],
         "height": 1.4,
@@ -1578,7 +1578,7 @@
     {
         "num": 632,
         "name": "Durant",
-        "types": [
+        "typess": [
             "Coleott.",
             "Acciaio"
         ],
@@ -1590,7 +1590,7 @@
     {
         "num": 633,
         "name": "Deino",
-        "types": [
+        "typess": [
             "Buio",
             "Drago"
         ],
@@ -1602,7 +1602,7 @@
     {
         "num": 634,
         "name": "Zweilous",
-        "types": [
+        "typess": [
             "Buio",
             "Drago"
         ],
@@ -1614,7 +1614,7 @@
     {
         "num": 635,
         "name": "Hydreigon",
-        "types": [
+        "typess": [
             "Buio",
             "Drago"
         ],
@@ -1626,7 +1626,7 @@
     {
         "num": 636,
         "name": "Larvesta",
-        "types": [
+        "typess": [
             "Coleott.",
             "Fuoco"
         ],
@@ -1638,7 +1638,7 @@
     {
         "num": 637,
         "name": "Volcarona",
-        "types": [
+        "typess": [
             "Coleott.",
             "Fuoco"
         ],
@@ -1650,7 +1650,7 @@
     {
         "num": 638,
         "name": "Cobalion",
-        "types": [
+        "typess": [
             "Acciaio",
             "Lotta"
         ],
@@ -1662,7 +1662,7 @@
     {
         "num": 639,
         "name": "Terrakion",
-        "types": [
+        "typess": [
             "Roccia",
             "Lotta"
         ],
@@ -1674,7 +1674,7 @@
     {
         "num": 640,
         "name": "Virizion",
-        "types": [
+        "typess": [
             "Erba",
             "Lotta"
         ],
@@ -1686,7 +1686,7 @@
     {
         "num": 641,
         "name": "Tornadus",
-        "types": [
+        "typess": [
             "Volante"
         ],
         "height": 1.5,
@@ -1697,7 +1697,7 @@
     {
         "num": 642,
         "name": "Thundurus",
-        "types": [
+        "typess": [
             "Elettro",
             "Volante"
         ],
@@ -1709,7 +1709,7 @@
     {
         "num": 643,
         "name": "Reshiram",
-        "types": [
+        "typess": [
             "Drago",
             "Fuoco"
         ],
@@ -1721,7 +1721,7 @@
     {
         "num": 644,
         "name": "Zekrom",
-        "types": [
+        "typess": [
             "Drago",
             "Elettro"
         ],
@@ -1733,7 +1733,7 @@
     {
         "num": 645,
         "name": "Landorus",
-        "types": [
+        "typess": [
             "Terra",
             "Volante"
         ],
@@ -1745,7 +1745,7 @@
     {
         "num": 646,
         "name": "Kyurem",
-        "types": [
+        "typess": [
             "Drago",
             "Ghiaccio"
         ],
@@ -1757,7 +1757,7 @@
     {
         "num": 647,
         "name": "Keldeo",
-        "types": [
+        "typess": [
             "Acqua",
             "Lotta"
         ],
@@ -1769,7 +1769,7 @@
     {
         "num": 648,
         "name": "Meloetta",
-        "types": [
+        "typess": [
             "Normale",
             "Psico"
         ],
@@ -1781,7 +1781,7 @@
     {
         "num": 649,
         "name": "Genesect",
-        "types": [
+        "typess": [
             "Coleott.",
             "Acciaio"
         ],
