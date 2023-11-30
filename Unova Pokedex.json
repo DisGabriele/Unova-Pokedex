@@ -1,0 +1,1253 @@
+{
+  "pokemon": [
+  {
+      "num": 494,
+      "name": "Victini",
+      "type": ["Psychic", "Fire"],
+      "height": 0.4,
+      "weight": 4,
+      "description": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter."
+    },
+    {
+      "num": 495,
+      "name": "Snivy",
+      "type": ["Grass"],
+      "height": 0.6,
+      "weight": 8.1,
+      "description": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter."
+    },
+    {
+      "num": 496,
+      "name": "Servine",
+      "type": ["Grass"],
+      "height": 0.8,
+      "weight": 16,
+      "description": "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip."
+    },
+    {
+      "num": 497,
+      "name": "Serperior",
+      "type": ["Grass"],
+      "height": 3.3,
+      "weight": 63,
+      "description": "It can stop its opponents' movements with just a glare. It takes in solar energy and boosts it internally."
+    },
+    {
+      "num": 498,
+      "name": "Tepig",
+      "type": ["Fire"],
+      "height": 0.5,
+      "weight": 9.9,
+      "description": "It can deftly dodge its foe's attacks while shooting fireballs from its nose. It roasts berries before it eats them."
+    },
+    {
+      "num": 499,
+      "name": "Pignite",
+      "type": ["Fire", "Fighting"],
+      "height": 1,
+      "weight": 55.5,
+      "description": "The more it eats, the more fuel it has to make the fire in its stomach. This fills it with even more power."
+    },
+    {
+      "num": 500,
+      "name": "Emboar",
+      "type": ["Fire", "Fighting"],
+      "height": 1.6,
+      "weight": 150,
+      "description": "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends."
+    },
+    {
+      "num": 501,
+      "name": "Oshawott",
+      "type": ["Water"],
+      "height": 0.5,
+      "weight": 5.9,
+      "description": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing."
+    },
+    {
+      "num": 502,
+      "name": "Dewott",
+      "type": ["Water"],
+      "height": 0.8,
+      "weight": 24.5,
+      "description": "Scalchop techniques differ from one Dewott to another. It never neglects maintaining its scalchops."
+    },
+    {
+      "num": 503,
+      "name": "Samurott",
+      "type": ["Water"],
+      "height": 1.5,
+      "weight": 94.6,
+      "description": "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody."
+    },
+    {
+      "num": 504,
+      "name": "Patrat",
+      "type": ["Normal"],
+      "height": 0.5,
+      "weight": 11.6,
+      "description": "Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others."
+    },
+    {
+      "num": 505,
+      "name": "Watchog",
+      "type": ["Normal"],
+      "height": 1.1,
+      "weight": 27,
+      "description": "Its home is in grassy areas. It protects its nose with its tail while it assists with food gathering."
+    },
+    {
+      "num": 506,
+      "name": "Lillipup",
+      "type": ["Normal"],
+      "height": 0.4,
+      "weight": 4.1,
+      "description": "This Pokémon is very popular as a herding dog in the Unova region. As it runs, it generates electricity from the base of its tail."
+    },
+    {
+      "num": 507,
+      "name": "Herdier",
+      "type": ["Normal"],
+      "height": 0.9,
+      "weight": 14.7,
+      "description": "The longer its black fur grows, the harder and more impervious it gets. Claws and fangs can't easily penetrate it."
+    },
+    {
+      "num": 508,
+    "name": "Stoutland",
+    "type": ["Normal"],
+    "height": 1.2,
+    "weight": 61,
+    "description": "Its fur is long and thick. A long time ago in cold regions, every household kept a Stoutland."
+  },
+  {
+    "num": 509,
+    "name": "Purrloin",
+    "type": ["Dark"],
+    "height": 0.4,
+    "weight": 10.1,
+    "description": "They steal from people for fun, but their victims can't help but forgive them. Their deceptively cute act is perfect."
+  },
+  {
+    "num": 510,
+    "name": "Liepard",
+    "type": ["Dark"],
+    "height": 1.1,
+    "weight": 37.5,
+    "description": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react."
+  },
+  {
+    "num": 511,
+    "name": "Pansage",
+    "type": ["Grass"],
+    "height": 0.6,
+    "weight": 10.5,
+    "description": "It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress."
+  },
+  {
+    "num": 512,
+    "name": "Simisage",
+    "type": ["Grass"],
+    "height": 1.1,
+    "weight": 30.5,
+    "description": "It attacks enemies with strikes of its thorn-covered tail. This Pokémon is wild tempered."
+  },
+  {
+      "num": 513,
+      "name": "Pansear",
+      "type": ["Fire"],
+      "height": 0.6,
+      "weight": 11,
+      "description": "It loves to help out with tough tasks. It loves sweet things, so it's always looking for snacks."
+    },
+    {
+      "num": 514,
+      "name": "Simisear",
+      "type": ["Fire"],
+      "height": 1,
+      "weight": 28,
+      "description": "When it gets excited, embers rise from its head and tail, and it gets hot. For some reason, it loves sweets."
+    },
+    {
+      "num": 515,
+      "name": "Panpour",
+      "type": ["Water"],
+      "height": 0.6,
+      "weight": 13.5,
+      "description": "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large."
+    },
+    {
+      "num": 516,
+      "name": "Simipour",
+      "type": ["Water"],
+      "height": 1,
+      "weight": 29,
+      "description": "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall."
+    },
+    {
+      "num": 517,
+      "name": "Munna",
+      "type": ["Psychic"],
+      "height": 0.6,
+      "weight": 23.3,
+      "description": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist."
+    },
+    {
+      "num": 518,
+      "name": "Musharna",
+      "type": ["Psychic"],
+      "height": 1.1,
+      "weight": 60.5,
+      "description": "The mist emanating from their foreheads is packed with the dreams of people and Pokémon."
+    },
+    {
+      "num": 519,
+      "name": "Pidove",
+      "type": ["Normal", "Flying"],
+      "height": 0.3,
+      "weight": 2.1,
+      "description": "It's forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity."
+    },
+    {
+      "num": 520,
+      "name": "Tranquill",
+      "type": ["Normal", "Flying"],
+      "height": 0.6,
+      "weight": 15,
+      "description": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer."
+    },
+  {
+      "num": 521,
+      "name": "Unfezant",
+      "type": ["Normal", "Flying"],
+      "height": 1.2,
+      "weight": 29,
+      "description": "The male with the largest plumage has the most beautiful feathers. It's an ideal choice for a wife."
+    },
+    {
+      "num": 522,
+      "name": "Blitzle",
+      "type": ["Electric"],
+      "height": 0.8,
+      "weight": 29.8,
+      "description": "When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity."
+    },
+    {
+      "num": 523,
+      "name": "Zebstrika",
+      "type": ["Electric"],
+      "height": 1.6,
+      "weight": 79.5,
+      "description": "This ill-tempered Pokémon is dangerous because when it's angry, it shoots lightning from its mane in all directions."
+    },
+    {
+      "num": 524,
+      "name": "Roggenrola",
+      "type": ["Rock"],
+      "height": 0.4,
+      "weight": 18,
+      "description": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel."
+    },
+    {
+      "num": 525,
+      "name": "Boldore",
+      "type": ["Rock"],
+      "height": 0.9,
+      "weight": 102,
+      "description": "When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves."
+    },
+    {
+      "num": 526,
+      "name": "Gigalith",
+      "type": ["Rock"],
+      "height": 1.7,
+      "weight": 260,
+      "description": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain."
+    },
+    {
+      "num": 527,
+      "name": "Woobat",
+      "type": ["Psychic", "Flying"],
+      "height": 0.4,
+      "weight": 2.1,
+      "description": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings."
+    },
+    {
+      "num": 528,
+      "name": "Swoobat",
+      "type": ["Psychic", "Flying"],
+      "height": 0.9,
+      "weight": 10.5,
+      "description": "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift."
+    },
+    {
+      "num": 529,
+      "name": "Drilbur",
+      "type": ["Ground"],
+      "height": 0.3,
+      "weight": 8.5,
+      "description": "It can dig through the ground at a speed of 30 mph. It could give a car running aboveground a good race."
+    },
+    {
+      "num": 530,
+      "name": "Excadrill",
+      "type": ["Ground", "Steel"],
+      "height": 0.7,
+      "weight": 40.4,
+      "description": "More than 300 feet below the surface, it builds labyrinthine nests. It's also known to trigger earthquakes."
+    },
+    {
+      "num": 531,
+      "name": "Audino",
+      "type": ["Normal"],
+      "height": 1.1,
+      "weight": 31,
+      "description": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch."
+    },
+    {
+      "num": 532,
+      "name": "Timburr",
+      "type": ["Fighting"],
+      "height": 0.6,
+      "weight": 12.5,
+      "description": "It carries a well-made log, which it uses to smash its opponents. In the homes of humans, it is used to help with construction."
+    },
+    {
+      "num": 533,
+      "name": "Gurdurr",
+      "type": ["Fighting"],
+      "height": 1.2,
+      "weight": 40,
+      "description": "On construction sites, this Pokémon carries s huge girder. It is one of the Pokémon that pulls Poke Marts."
+    },
+    {
+      "num": 534,
+      "name": "Conkeldurr",
+      "type": ["Fighting"],
+      "height": 1.4,
+      "weight": 87,
+      "description": "It can show up anywhere there is construction. It skillfully wields a massive concrete pillar."
+    },
+    {
+      "num": 535,
+      "name": "Tympole",
+      "type": ["Water"],
+      "height": 0.5,
+      "weight": 4.5,
+      "description": "They warn others of danger by vibrating their cheeks to create a high-pitched sound."
+    },
+    {
+      "num": 536,
+      "name": "Palpitoad",
+      "type": ["Water", "Ground"],
+      "height": 0.8,
+      "weight": 17,
+      "description": "It weakens its prey with sound waves intense enough to cause headaches, then entangles them with its sticky tongue."
+    },
+    {
+      "num": 537,
+      "name": "Seismitoad",
+      "type": ["Water", "Ground"],
+      "height": 1.5,
+      "weight": 62,
+      "description": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch."
+    },
+    {
+      "num": 538,
+      "name": "Throh",
+      "type": ["Fighting"],
+      "height": 1.3,
+      "weight": 55.5,
+      "description": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts."
+    },
+    {
+      "num": 539,
+      "name": "Sawk",
+      "type": ["Fighting"],
+      "height": 1.4,
+      "weight": 51,
+      "description": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them."
+    },
+    {
+      "num": 540,
+      "name": "Sewaddle",
+      "type": ["Bug", "Grass"],
+      "height": 0.3,
+      "weight": 2.5,
+      "description": "Larvae of this species are known to wrap leaves around their bodies for protection."
+    },
+    {
+      "num": 541,
+      "name": "Swadloon",
+      "type": ["Bug", "Grass"],
+      "height": 0.5,
+      "weight": 7.3,
+      "description": "A long, long time ago, it lived in the depths of the sea. Then humans transformed it into energy."
+    },
+    {
+      "num": 542,
+      "name": "Leavanny",
+      "type": ["Bug", "Grass"],
+      "height": 1.2,
+      "weight": 20.5,
+      "description": "Upon finding a small Pokémon, it weaves clothing for it from leaves, using the cutters on its arms and sticky silk."
+    },
+    {
+      "num": 543,
+      "name": "Venipede",
+      "type": ["Bug", "Poison"],
+      "height": 0.4,
+      "weight": 5.3,
+      "description": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive."
+    },
+    {
+      "num": 544,
+      "name": "Whirlipede",
+      "type": ["Bug", "Poison"],
+      "height": 1.2,
+      "weight": 58.5,
+      "description": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies."
+    },
+    {
+      "num": 545,
+      "name": "Scolipede",
+      "type": ["Bug", "Poison"],
+      "height": 2.5,
+      "weight": 200.5,
+      "description": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails."
+    },
+    {
+      "num": 546,
+      "name": "Cottonee",
+      "type": ["Grass", "Fairy"],
+      "height": 0.3,
+      "weight": 0.6,
+      "description": "When attacked, it expels cotton from its body to create a diversion. The cotton is full of paralyzing spores."
+    },
+    {
+      "num": 547,
+      "name": "Whimsicott",
+      "type": ["Grass", "Fairy"],
+      "height": 0.7,
+      "weight": 6.6,
+      "description": "Wind from its cotton can stun opponents. Its pollen also grows sticky for a time, so it collects lots of pollen."
+    },
+    {
+      "num": 548,
+      "name": "Petilil",
+      "type": ["Grass"],
+      "height": 0.5,
+      "weight": 6.6,
+      "description": "It lives in areas with clean air and water. Its long hair shines like the sun's rays."
+    },
+    {
+      "num": 549,
+      "name": "Lilligant",
+      "type": ["Grass"],
+      "height": 1.1,
+      "weight": 16.3,
+      "description": "When it gets the chance, it burrows its slimy, sucker-tipped mouth into the prey and drains the prey's bodily fluids."
+    },
+    {
+      "num": 550,
+      "name": "Basculin",
+      "type": ["Water"],
+      "height": 1,
+      "weight": 18,
+      "description": "Red and blue Basculin get along so poorly, they'll start fighting instantly. These Pokémon are very hostile."
+    },
+    {
+      "num": 551,
+      "name": "Sandile",
+      "type": ["Ground", "Dark"],
+      "height": 0.7,
+      "weight": 15.2,
+      "description": "When they see an enemy, their hairs stand on end and their tails aim straight up as they prepare to confront their opponent."
+    },
+    {
+      "num": 552,
+      "name": "Krokorok",
+      "type": ["Ground", "Dark"],
+      "height": 1,
+      "weight": 33.4,
+      "description": "It is a common sight in deserts. Its sand pouch has grown large, thanks to the constant collecting of sand."
+    },
+    {
+      "num": 553,
+      "name": "Krookodile",
+      "type": ["Ground", "Dark"],
+      "height": 1.5,
+      "weight": 96.3,
+      "description": "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile."
+    },
+    {
+      "num": 554,
+      "name": "Darumaka",
+      "type": ["Fire"],
+      "height": 0.6,
+      "weight": 37.5,
+      "description": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit."
+    },
+    {
+      "num": 555,
+      "name": "Darmanitan",
+      "type": ["Fire"],
+      "height": 1.3,
+      "weight": 92.9,
+      "description": "Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch."
+    },
+    {
+      "num": 556,
+      "name": "Maractus",
+      "type": ["Grass"],
+      "height": 1,
+      "weight": 28,
+      "description": "When it moves rhythmically, it makes a sound similar to maracas, which has been known to make opponents nervous."
+    },
+    {
+      "num": 557,
+      "name": "Dwebble",
+      "type": ["Bug", "Rock"],
+      "height": 0.3,
+      "weight": 14.5,
+      "description": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into."
+    },
+    {
+      "num": 558,
+      "name": "Crustle",
+      "type": ["Bug", "Rock"],
+      "height": 1.4,
+      "weight": 200,
+      "description": "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land."
+    },
+    {
+      "num": 559,
+      "name": "Scraggy",
+      "type": ["Dark", "Fighting"],
+      "height": 0.6,
+      "weight": 11.8,
+      "description": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck."
+    },
+    {
+      "num": 560,
+      "name": "Scrafty",
+      "type": ["Dark", "Fighting"],
+      "height": 1.1,
+      "weight": 30,
+      "description": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth."
+    },
+    {
+      "num": 561,
+      "name": "Sigilyph",
+      "types": ["Psychic", "Flying"],
+      "height": 1.4,
+      "weight": 14.0,
+      "description": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory."
+    },
+    {
+      "num": 562,
+      "name": "Yamask",
+      "types": ["Ghost"],
+      "height": 0.5,
+      "weight": 1.5,
+      "description": "These Pokémon arose from the spirits of people interred in graves in past ages. Each retains memories of its former life."
+    },
+    {
+      "num": 563,
+      "name": "Cofagrigus",
+      "types": ["Ghost"],
+      "height": 1.7,
+      "weight": 76.5,
+      "description": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets."
+    },
+	 {
+      "num": 564,
+      "name": "Tirtouga",
+      "types": ["Water", "Rock"],
+      "height": 0.7,
+      "weight": 16.5,
+      "description": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey."
+    },
+    {
+      "num": 565,
+      "name": "Carracosta",
+      "types": ["Water", "Rock"],
+      "height": 1.2,
+      "weight": 81.0,
+      "description": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all."
+    },
+    {
+      "num": 566,
+      "name": "Archen",
+      "types": ["Rock", "Flying"],
+      "height": 0.5,
+      "weight": 9.5,
+      "description": "The bones of its wings are thought to be the remains of its ancestors who couldn’t fly. It runs as quickly as any other bird Pokémon."
+    },
+    {
+      "num": 567,
+      "name": "Archeops",
+      "types": ["Rock", "Flying"],
+      "height": 1.4,
+      "weight": 32.0,
+      "description": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight."
+    },
+    {
+      "num": 568,
+      "name": "Trubbish",
+      "types": ["Poison"],
+      "height": 0.6,
+      "weight": 31.0,
+      "description": "Trubbish’s favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room."
+    },
+    {
+      "num": 569,
+      "name": "Garbodor",
+      "types": ["Poison"],
+      "height": 1.9,
+      "weight": 107.3,
+      "description": "They absorb garbage and make it part of their bodies. They shoot a poisonous liquid from their right-hand fingertips."
+    },
+	{
+      "num": 570,
+      "name": "Zorua",
+      "types": ["Dark"],
+      "height": 0.7,
+      "weight": 12.5,
+      "description": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child."
+    },
+    {
+      "num": 571,
+      "name": "Zoroark",
+      "types": ["Dark"],
+      "height": 1.6,
+      "weight": 81.1,
+      "description": "It protects the safety of its pack by tricking its opponents. Predators go after the weakest link in a herd, so this Pokémon is naturally cunning."
+    },
+    {
+      "num": 572,
+      "name": "Minccino",
+      "types": ["Normal"],
+      "height": 0.4,
+      "weight": 5.8,
+      "description": "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean."
+    },
+    {
+      "num": 573,
+      "name": "Cinccino",
+      "types": ["Normal"],
+      "height": 0.5,
+      "weight": 7.5,
+      "description": "Their white fur feels amazing to touch. Their fur repels dust and prevents static electricity from building up."
+    },
+    {
+      "num": 574,
+      "name": "Gothita",
+      "types": ["Psychic"],
+      "height": 0.4,
+      "weight": 5.8,
+      "description": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only they can see."
+    },
+    {
+      "num": 575,
+      "name": "Gothorita",
+      "types": ["Psychic"],
+      "height": 0.7,
+      "weight": 18.0,
+      "description": "They use hypnosis to control people and Pokémon. Tales of Gothorita leading people astray are told in every corner."
+    },
+    {
+      "num": 576,
+      "name": "Gothitelle",
+      "types": ["Psychic"],
+      "height": 1.5,
+      "weight": 44.0,
+      "description": "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power."
+    },
+    {
+      "num": 577,
+      "name": "Solosis",
+      "types": ["Psychic"],
+      "height": 0.3,
+      "weight": 1.0,
+      "description": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others."
+    },
+    {
+      "num": 578,
+      "name": "Duosion",
+      "types": ["Psychic"],
+      "height": 0.6,
+      "weight": 8.0,
+      "description": "When their brains, now divided in two, are thinking the same thought, these Pokémon exhibit their maximum psychic power."
+    },
+    {
+      "num": 579,
+      "name": "Reuniclus",
+      "types": ["Psychic"],
+      "height": 1.0,
+      "weight": 20.1,
+      "description": "The green fluid secreted by its body contains special enzymes that cause Pokémon it slams into to combust spontaneously."
+    },
+    {
+      "num": 580,
+      "name": "Ducklett",
+      "types": ["Water", "Flying"],
+      "height": 0.5,
+      "weight": 5.5,
+      "description": "These bird Pokémon are excellent divers. They swim around in lovely flocks, causing the scattered feathers to resemble a bunch of flowers."
+    },
+    {
+      "num": 581,
+      "name": "Swanna",
+      "types": ["Water", "Flying"],
+      "height": 1.3,
+      "weight": 24.2,
+      "description": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock."
+    },
+    {
+      "num": 582,
+      "name": "Vanillite",
+      "types": ["Ice"],
+      "height": 0.4,
+      "weight": 5.7,
+      "description": "When the temperature rose at the end of the Ice Age, most Vanillite migrated to colder areas. They didn't return until a thick layer of ice had covered the region."
+    },
+    {
+      "num": 583,
+      "name": "Vanillish",
+      "types": ["Ice"],
+      "height": 1.1,
+      "weight": 41.0,
+      "description": "Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas."
+    },
+    {
+      "num": 584,
+      "name": "Vanilluxe",
+      "types": ["Ice"],
+      "height": 1.3,
+      "weight": 57.5,
+      "description": "This Pokémon has existed since the Ice Age. It controls particles of ice, freezes its opponents, and creates ice crystals to protect itself."
+    },
+    {
+      "num": 585,
+      "name": "Deerling",
+      "types": ["Normal", "Grass"],
+      "height": 0.6,
+      "weight": 19.5,
+      "description": "The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons."
+    },
+    {
+      "num": 586,
+      "name": "Sawsbuck",
+      "types": ["Normal", "Grass"],
+      "height": 1.9,
+      "weight": 92.5,
+      "description": "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring."
+    },
+    {
+      "num": 587,
+      "name": "Emolga",
+      "types": ["Electric", "Flying"],
+      "height": 0.4,
+      "weight": 5.0,
+      "description": "They store up electricity in their cheeks, so you'll feel a tingly shock if you touch them."
+    },
+    {
+      "num": 588,
+      "name": "Karrablast",
+      "types": ["Bug"],
+      "height": 0.5,
+      "weight": 5.9,
+      "description": "It evolves when bathed in an electric-like energy along with Shelmet. Karrablast will seek out opponents to pick fights with."
+    },
+    {
+      "num": 589,
+      "name": "Escavalier",
+      "types": ["Bug", "Steel"],
+      "height": 1.0,
+      "weight": 33.0,
+      "description": "They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely."
+    },
+    {
+      "num": 590,
+      "name": "Foongus",
+      "types": ["Grass", "Poison"],
+      "height": 0.2,
+      "weight": 1.0,
+      "description": "It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores."
+    },
+    {
+      "num": 591,
+      "name": "Amoonguss",
+      "types": ["Grass", "Poison"],
+      "height": 0.6,
+      "weight": 10.5,
+      "description": "It moves the caps on both arms and does a dance to lure prey. It prefers damp places."
+    },
+    {
+      "num": 592,
+      "name": "Frillish",
+      "types": ["Water", "Ghost"],
+      "height": 1.2,
+      "weight": 33.0,
+      "description": "Lurking in the shallows, it patiently waits for prey to come close. When it does, Frillish and its tentacles seize and poison it."
+    },
+    {
+      "num": 593,
+      "name": "Jellicent",
+      "types": ["Water", "Ghost"],
+      "height": 2.2,
+      "weight": 135.0,
+      "description": "In times long past, governors of castles would invite Jellicent to create barriers against invaders."
+    },
+    {
+      "num": 594,
+      "name": "Alomomola",
+      "types": ["Water"],
+      "height": 1.2,
+      "weight": 31.6,
+      "description": "The special membrane enveloping Alomomola's body allows it to heal wounds by releasing a healing membrane."
+    },
+    {
+      "num": 595,
+      "name": "Joltik",
+      "types": ["Bug", "Electric"],
+      "height": 0.1,
+      "weight": 0.6,
+      "description": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch."
+    },
+    {
+      "num": 596,
+      "name": "Galvantula",
+      "types": ["Bug", "Electric"],
+      "height": 0.8,
+      "weight": 14.3,
+      "description": "When attacked, they create an electric barrier by spitting out a sticky thread and then discharging high-voltage current."
+    },
+    {
+      "num": 597,
+      "name": "Ferroseed",
+      "types": ["Grass", "Steel"],
+      "height": 0.6,
+      "weight": 18.8,
+      "description": "They stick their spikes into cave walls and absorb the minerals they find in the rock."
+    },
+    {
+      "num": 598,
+      "name": "Ferrothorn",
+      "types": ["Grass", "Steel"],
+      "height": 1.0,
+      "weight": 110.0,
+      "description": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them."
+    },
+    {
+      "num": 599,
+      "name": "Klink",
+      "types": ["Steel"],
+      "height": 0.3,
+      "weight": 21.0,
+      "description": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing."
+    },
+    {
+      "num": 600,
+      "name": "Klang",
+      "types": ["Steel"],
+      "height": 0.6,
+      "weight": 51.0,
+      "description": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster."
+    },
+    {
+      "num": 601,
+      "name": "Klinklang",
+      "types": ["Steel"],
+      "height": 0.6,
+      "weight": 81.0,
+      "description": "The gear with the red core is rotated at high speed for a rapid energy charge."
+    },
+    {
+      "num": 602,
+      "name": "Tynamo",
+      "types": ["Electric"],
+      "height": 0.2,
+      "weight": 0.3,
+      "description": "While one alone doesn't have much power, a chain of many Tynamo can be as powerful as lightning."
+    },
+    {
+      "num": 603,
+      "name": "Eelektrik",
+      "types": ["Electric"],
+      "height": 1.2,
+      "weight": 22.0,
+      "description": "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps."
+    },
+    {
+      "num": 604,
+      "name": "Eelektross",
+      "types": ["Electric"],
+      "height": 2.1,
+      "weight": 80.5,
+      "description": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean."
+    },
+    {
+      "num": 605,
+      "name": "Elgyem",
+      "types": ["Psychic"],
+      "height": 0.5,
+      "weight": 9.0,
+      "description": "It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches."
+    },
+    {
+      "num": 606,
+      "name": "Beheeyem",
+      "types": ["Psychic"],
+      "height": 1.0,
+      "weight": 34.5,
+      "description": "It can manipulate an opponent's memory. Apparently, it communicates by flashing its three different-colored fingers."
+    },
+    {
+      "num": 607,
+      "name": "Litwick",
+      "types": ["Ghost", "Fire"],
+      "height": 0.3,
+      "weight": 3.1,
+      "description": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns."
+    },
+    {
+      "num": 608,
+      "name": "Lampent",
+      "types": ["Ghost", "Fire"],
+      "height": 0.6,
+      "weight": 13.0,
+      "description": "This ominous Pokémon is feared. Through cities it wanders, searching for the spirits of the fallen."
+    },
+    {
+      "num": 609,
+      "name": "Chandelure",
+      "types": ["Ghost", "Fire"],
+      "height": 1.0,
+      "weight": 34.3,
+      "description": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind."
+    },
+	{
+    "num": 610,
+    "name": "Axew",
+    "types": ["Dragon"],
+    "height": 0.6,
+    "weight": 18.0,
+    "description": "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp."
+  },
+ {
+    "num": 611,
+    "name": "Fraxure",
+    "types": ["Dragon"],
+    "height": 1.0,
+    "weight": 36.0,
+    "description": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they've been fighting."
+  },
+  {
+    "num": 612,
+    "name": "Haxorus",
+    "types": ["Dragon"],
+    "height": 1.8,
+    "weight": 105.5,
+    "description": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor."
+  },
+  {
+    "num": 613,
+    "name": "Cubchoo",
+    "types": ["Ice"],
+    "height": 0.5,
+    "weight": 8.5,
+    "description": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves."
+  },
+  {
+    "num": 614,
+    "name": "Beartic",
+    "types": ["Ice"],
+    "height": 2.6,
+    "weight": 260.0,
+    "description": "It can make its breath freeze at will. When threatened, it spews a cloud of chilled air."
+  },
+  {
+    "num": 615,
+    "name": "Cryogonal",
+    "types": ["Ice"],
+    "height": 1.1,
+    "weight": 148.0,
+    "description": "They are born in snow clouds. They use chains made of ice crystals to capture prey."
+  },
+  {
+    "num": 616,
+    "name": "Shelmet",
+    "types": ["Bug"],
+    "height": 0.4,
+    "weight": 7.7,
+    "description": "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid."
+  },
+  {
+    "num": 617,
+    "name": "Accelgor",
+    "types": ["Bug"],
+    "height": 0.8,
+    "weight": 25.3,
+    "description": "Having removed its heavy shell, it moves lightly and at speed. It races through narrow caves as if flying."
+  },
+  {
+    "num": 618,
+    "name": "Stunfisk",
+    "types": ["Ground", "Electric"],
+    "height": 0.7,
+    "weight": 11.0,
+    "description": "It lies perfectly still in the mud. It waits for prey to touch it. When that happens, it leaps at the prey and delivers a jolt of electricity."
+  },
+  {
+    "num": 619,
+    "name": "Mienfoo",
+    "types": ["Fighting"],
+    "height": 0.9,
+    "weight": 20.0,
+    "description": "When Mienshao has fully honed its psychic powers, its fur becomes even silkier than before."
+  },
+  {
+    "num": 620,
+    "name": "Mienshao",
+    "types": ["Fighting"],
+    "height": 1.4,
+    "weight": 35.5,
+    "description": "It takes pride in the speed at which it can use moves. What it loses in power, it makes up for in quantity."
+  },
+  {
+    "num": 621,
+    "name": "Druddigon",
+    "types": ["Dragon"],
+    "height": 1.6,
+    "weight": 139.0,
+    "description": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move."
+  },
+  {
+    "num": 622,
+    "name": "Golett",
+    "types": ["Ground", "Ghost"],
+    "height": 1.0,
+    "weight": 92.0,
+    "description": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy."
+  },
+  {
+    "num": 623,
+    "name": "Golurk",
+    "types": ["Ground", "Ghost"],
+    "height": 2.8,
+    "weight": 330.0,
+    "description": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control."
+  },
+  {
+  {
+    "num": 624,
+    "name": "Pawniard",
+    "types": ["Dark", "Steel"],
+    "height": 0.5,
+    "weight": 10.2,
+    "description": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river."
+  },
+  {
+    "num": 625,
+    "name": "Bisharp",
+    "types": ["Dark", "Steel"],
+    "height": 1.6,
+    "weight": 70.0,
+    "description": "It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses."
+  },
+  {
+    "num": 626,
+    "name": "Bouffalant",
+    "types": ["Normal"],
+    "height": 1.6,
+    "weight": 94.6,
+    "description": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train."
+  },
+  {
+    "num": 627,
+    "name": "Rufflet",
+    "types": ["Normal", "Flying"],
+    "height": 0.5,
+    "weight": 10.5,
+    "description": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is."
+  },
+  {
+    "num": 628,
+    "name": "Braviary",
+    "types": ["Normal", "Flying"],
+    "height": 1.5,
+    "weight": 41.0,
+    "description": "This Pokémon has a great love of battle and will not flinch at anything. It will brave any danger to protect its brethren."
+  },
+  {
+    "num": 629,
+    "name": "Vullaby",
+    "types": ["Dark", "Flying"],
+    "height": 0.5,
+    "weight": 9.0,
+    "description": "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing."
+  },
+  {
+    "num": 630,
+    "name": "Mandibuzz",
+    "types": ["Dark", "Flying"],
+    "height": 1.2,
+    "weight": 39.5,
+    "description": "It makes a nest out of bones it finds. It grabs weakened prey in its talons and hauls it to its nest of bones."
+  },
+  {
+    "num": 631,
+    "name": "Heatmor",
+    "types": ["Fire"],
+    "height": 1.4,
+    "weight": 58.0,
+    "description": "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides."
+  },
+  {
+    "num": 632,
+    "name": "Durant",
+    "types": ["Bug", "Steel"],
+    "height": 0.3,
+    "weight": 33.0,
+    "description": "Durant dig nests in mountains. They build their complicated, interconnected tunnels into mazes."
+  },
+  {
+    "num": 633,
+    "name": "Deino",
+    "types": ["Dark", "Dragon"],
+    "height": 0.8,
+    "weight": 17.3,
+    "description": "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds."
+  },
+  {
+    "num": 634,
+    "name": "Zweilous",
+    "types": ["Dark", "Dragon"],
+    "height": 1.4,
+    "weight": 50.0,
+    "description": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along."
+  },
+  {
+    "num": 635,
+    "name": "Hydreigon",
+    "types": ["Dark", "Dragon"],
+    "height": 1.8,
+    "weight": 160.0,
+    "description": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything."
+  },
+  {
+    "num": 636,
+    "name": "Larvesta",
+    "types": ["Bug", "Fire"],
+    "height": 1.1,
+    "weight": 28.8,
+    "description": "It is born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire."
+  },
+  {
+    "num": 637,
+    "name": "Volcarona",
+    "types": ["Bug", "Fire"],
+    "height": 1.6,
+    "weight": 46.0,
+    "description": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales."
+  },
+  {
+    "num": 638,
+    "name": "Cobalion",
+    "types": ["Steel", "Fighting"],
+    "height": 2.1,
+    "weight": 250.0,
+    "description": "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokémon obey it."
+  },
+  {
+    "num": 639,
+    "name": "Terrakion",
+    "types": ["Rock", "Fighting"],
+    "height": 1.9,
+    "weight": 260.0,
+    "description": "Its charge is strong enough to break through a giant castle wall in one blow. This Pokémon is spoken of in legends."
+  },
+  {
+    "num": 640,
+    "name": "Virizion",
+    "types": ["Grass", "Fighting"],
+    "height": 2.0,
+    "weight": 200.0,
+    "description": "This Pokémon fought humans in order to protect its friends. Legends about it continue to be passed down."
+  },
+  {
+    "num": 641,
+    "name": "Tornadus",
+    "types": ["Flying"],
+    "height": 1.5,
+    "weight": 63.0,
+    "description": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away."
+  },
+  {
+    "num": 642,
+    "name": "Thundurus",
+    "types": ["Electric", "Flying"],
+    "height": 1.5,
+    "weight": 61.0,
+    "description": "Countless charred remains mar the landscape of places through which Thundurus has passed."
+  },
+  {
+    "num": 643,
+    "name": "Reshiram",
+    "types": ["Dragon", "Fire"],
+    "height": 3.2,
+    "weight": 330.0,
+    "description": "This Legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth."
+  },
+  {
+    "num": 644,
+    "name": "Zekrom",
+    "types": ["Dragon", "Electric"],
+    "height": 2.9,
+    "weight": 345.0,
+    "description": "This Legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world."
+  },
+  {
+    "num": 645,
+    "name": "Landorus",
+    "types": ["Ground", "Flying"],
+    "height": 1.5,
+    "weight": 68.0,
+    "description": "The energy that comes pouring from its tail increases the nutrition in the soil, making crops grow to great size."
+  },
+  {
+    "num": 646,
+    "name": "Kyurem",
+    "types": ["Dragon", "Ice"],
+    "height": 3.0,
+    "weight": 325.0,
+    "description": "It can produce ultracold air. Its body is frozen."
+  },
+  {
+    "num": 647,
+    "name": "Keldeo",
+    "types": ["Water", "Fighting"],
+    "height": 1.4,
+    "weight": 48.5,
+    "description": "By blasting water from its hooves, it can glide across water. It excels at using leg moves while battling."
+  },
+  {
+    "num": 648,
+    "name": "Meloetta",
+    "types": ["Normal", "Psychic"],
+    "height": 0.6,
+    "weight": 6.5,
+    "description": "The melodies sung by Meloetta have the power to make Pokémon that hear them happy or sad."
+  },
+  {
+    "num": 649,
+    "name": "Genesect",
+    "types": ["Bug", "Steel"],
+    "height": 1.5,
+    "weight": 82.5,
+    "description": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back."
+  }
+  ]
+}
