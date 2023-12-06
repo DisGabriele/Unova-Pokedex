@@ -1,1794 +1,1794 @@
 {
-    "pokemons":[
-    {
-        "num": 494,
-        "name": "Victini",
-        "types": [
-            "Psico",
-            "Fuoco"
-        ],
-        "height": 0.4,
-        "weight": 4,
-        "description": "Questo Pokémon porta la vittoria. Si dice che gli Allenatori con Victini vincono sempre, indipendentemente dal tipo di incontro.",
-        "img": "https://serebii.net/pokemon/art/494.png"
-    },
-    {
-        "num": 495,
-        "name": "Snivy",
-        "types": [
-            "Erba"
-        ],
-        "height": 0.6,
-        "weight": 8.1,
-        "description": "È molto intelligente e calmo. Essere esposto a molta luce solare rende i suoi movimenti più rapidi.",
-        "img": "https://serebii.net/pokemon/art/495.png"
-    },
-    {
-        "num": 496,
-        "name": "Servine",
-        "types": [
-            "Erba"
-        ],
-        "height": 0.8,
-        "weight": 16,
-        "description": "Si muove lungo il terreno come se stesse scivolando. I suoi movimenti rapidi confondono i suoi nemici, e poi attacca con una frusta di vite.",
-        "img": "https://serebii.net/pokemon/art/496.png"
-    },
-    {
-        "num": 497,
-        "name": "Serperior",
-        "types": [
-            "Erba"
-        ],
-        "height": 3.3,
-        "weight": 63,
-        "description": "Può fermare i movimenti dei suoi avversari con uno sguardo. Assorbe l'energia solare e la potenzia internamente.",
-        "img": "https://serebii.net/pokemon/art/497.png"
-    },
-    {
-        "num": 498,
-        "name": "Tepig",
-        "types": [
-            "Fuoco"
-        ],
-        "height": 0.5,
-        "weight": 9.9,
-        "description": "Può schivare agilmente gli attacchi dei suoi nemici sparando palle di fuoco dal naso. Arrostisce le bacche prima di mangiarle.",
-        "img": "https://serebii.net/pokemon/art/498.png"
-    },
-    {
-        "num": 499,
-        "name": "Pignite",
-        "types": [
-            "Fuoco",
-            "Lotta"
-        ],
-        "height": 1,
-        "weight": 55.5,
-        "description": "Più mangia, più carburante ha per il fuoco nello stomaco. Questo lo riempie di ancora più potere.",
-        "img": "https://serebii.net/pokemon/art/499.png"
-    },
-    {
-        "num": 500,
-        "name": "Emboar",
-        "types": [
-            "Fuoco",
-            "Lotta"
-        ],
-        "height": 1.6,
-        "weight": 150,
-        "description": "Può lanciare un pugno infuocato incendiando i suoi pugni con il suo mento infuocato. Si preoccupa profondamente dei suoi amici.",
-        "img": "https://serebii.net/pokemon/art/500.png"
-    },
-    {
-        "num": 501,
-        "name": "Oshawott",
-        "types": [
-            "Acqua"
-        ],
-        "height": 0.5,
-        "weight": 5.9,
-        "description": "Combatte usando lo scalchop sullo stomaco. In risposta a un attacco, contrattacca immediatamente con uno sfregio.",
-        "img": "https://serebii.net/pokemon/art/501.png"
-    },
-    {
-        "num": 502,
-        "name": "Dewott",
-        "types": [
-            "Acqua"
-        ],
-        "height": 0.8,
-        "weight": 24.5,
-        "description": "Le tecniche dello scalchop differiscono da un Dewott all'altro. Non trascura mai la manutenzione dei suoi scalchops.",
-        "img": "https://serebii.net/pokemon/art/502.png"
-    },
-    {
-        "num": 503,
-        "name": "Samurott",
-        "types": [
-            "Acqua"
-        ],
-        "height": 1.5,
-        "weight": 94.6,
-        "description": "Un colpo di spada incorporata nella sua armatura può abbattere un avversario. Uno sguardo fermo da parte sua zittisce tutti.",
-        "img": "https://serebii.net/pokemon/art/503.png"
-    },
-    {
-        "num": 504,
-        "name": "Patrat",
-        "types": [
-            "Normale"
-        ],
-        "height": 0.5,
-        "weight": 11.6,
-        "description": "Usando il cibo conservato nelle guance, possono fare la guardia per giorni. Usano le loro code per comunicare con gli altri.",
-        "img": "https://serebii.net/pokemon/art/504.png"
-    },
-    {
-        "num": 505,
-        "name": "Watchog",
-        "types": [
-            "Normale"
-        ],
-        "height": 1.1,
-        "weight": 27,
-        "description": "La sua casa è nelle aree erbose. Protegge il naso con la coda mentre aiuta nella raccolta del cibo.",
-        "img": "https://serebii.net/pokemon/art/505.png"
-    },
-    {
-        "num": 506,
-        "name": "Lillipup",
-        "types": [
-            "Normale"
-        ],
-        "height": 0.4,
-        "weight": 4.1,
-        "description": "Questo Pokémon è molto popolare come cane da pastore nella regione di Unova. Correndo, genera elettricità dalla base della sua coda.",
-        "img": "https://serebii.net/pokemon/art/506.png"
-    },
-    {
-        "num": 507,
-        "name": "Herdier",
-        "types": [
-            "Normale"
-        ],
-        "height": 0.9,
-        "weight": 14.7,
-        "description": "Più cresce la sua pelliccia nera, più diventa dura e impenetrabile. Artigli e zanne non possono penetrare facilmente.",
-        "img": "https://serebii.net/pokemon/art/507.png"
-    },
-    {
-        "num": 508,
-        "name": "Stoutland",
-        "types": [
-            "Normale"
-        ],
-        "height": 1.2,
-        "weight": 61,
-        "description": "La sua pelliccia è lunga e spessa. In tempi antichi nelle regioni fredde, ogni casa aveva un Stoutland.",
-        "img": "https://serebii.net/pokemon/art/508.png"
-    },
-    {
-        "num": 509,
-        "name": "Purrloin",
-        "types": [
-            "Buio"
-        ],
-        "height": 0.4,
-        "weight": 10.1,
-        "description": "Rubano alle persone per divertimento, ma le vittime non possono fare a meno di perdonarli. Il loro atto ingannevolmente carino è perfetto.",
-        "img": "https://serebii.net/pokemon/art/509.png"
-    },
-    {
-        "num": 510,
-        "name": "Liepard",
-        "types": [
-            "Buio"
-        ],
-        "height": 1.1,
-        "weight": 37.5,
-        "description": "Silenziosamente, si avvicina al suo bersaglio, colpendo alle spalle prima che la vittima abbia la possibilità di reagire.",
-        "img": "https://serebii.net/pokemon/art/510.png"
-    },
-    {
-        "num": 511,
-        "name": "Pansage",
-        "types": [
-            "Erba"
-        ],
-        "height": 0.6,
-        "weight": 10.5,
-        "description": "Condivide la foglia sulla testa con Pokémon dall'aspetto stanco. Queste foglie sono conosciute per alleviare lo stress.",
-        "img": "https://serebii.net/pokemon/art/511.png"
-    },
-    {
-        "num": 512,
-        "name": "Simisage",
-        "types": [
-            "Erba"
-        ],
-        "height": 1.1,
-        "weight": 30.5,
-        "description": "Attacca i nemici con colpi della sua coda coperta di spine. Questo Pokémon ha un temperamento selvaggio.",
-        "img": "https://serebii.net/pokemon/art/512.png"
-    },
-    {
-        "num": 513,
-        "name": "Pansear",
-        "types": [
-            "Fuoco"
-        ],
-        "height": 0.6,
-        "weight": 11,
-        "description": "Adora aiutare con compiti difficili. Ama le cose dolci, quindi è sempre alla ricerca di spuntini.",
-        "img": "https://serebii.net/pokemon/art/513.png"
-    },
-    {
-        "num": 514,
-        "name": "Simisear",
-        "types": [
-            "Fuoco"
-        ],
-        "height": 1,
-        "weight": 28,
-        "description": "Quando si eccita, braci si alzano dalla testa e dalla coda, e si riscalda. Per qualche motivo, ama i dolci.",
-        "img": "https://serebii.net/pokemon/art/514.png"
-    },
-    {
-        "num": 515,
-        "name": "Panpour",
-        "types": [
-            "Acqua"
-        ],
-        "height": 0.6,
-        "weight": 13.5,
-        "description": "L'acqua immagazzinata nella ciocca sulla sua testa è piena di nutrienti. Le piante che ricevono la sua acqua crescono grandi.",
-        "img": "https://serebii.net/pokemon/art/515.png"
-    },
-    {
-        "num": 516,
-        "name": "Simipour",
-        "types": [
-            "Acqua"
-        ],
-        "height": 1,
-        "weight": 29,
-        "description": "L'acqua ad alta pressione emessa dalla sua coda è così potente che può distruggere un muro di cemento.",
-        "img": "https://serebii.net/pokemon/art/516.png"
-    },
-    {
-        "num": 517,
-        "name": "Munna",
-        "types": [
-            "Psico"
-        ],
-        "height": 0.6,
-        "weight": 23.3,
-        "description": "Mangia i sogni delle persone e dei Pokémon. Quando mangia un sogno piacevole, emette nebbia di colore rosa.",
-        "img": "https://serebii.net/pokemon/art/517.png"
-    },
-    {
-        "num": 518,
-        "name": "Musharna",
-        "types": [
-            "Psico"
-        ],
-        "height": 1.1,
-        "weight": 60.5,
-        "description": "La nebbia che emana dalle loro fronti è piena dei sogni delle persone e dei Pokémon.",
-        "img": "https://serebii.net/pokemon/art/518.png"
-    },
-    {
-        "num": 519,
-        "name": "Pidove",
-        "types": [
-            "Normale",
-            "Volante"
-        ],
-        "height": 0.3,
-        "weight": 2.1,
-        "description": "È dimentico e non molto brillante, ma molti Allenatori lo amano comunque per la sua cordialità e sincerità.",
-        "img": "https://serebii.net/pokemon/art/519.png"
-    },
-    {
-        "num": 520,
-        "name": "Tranquill",
-        "types": [
-            "Normale",
-            "Volante"
-        ],
-        "height": 0.6,
-        "weight": 15,
-        "description": "Non importa dove vada nel mondo, sa dove si trova il suo nido, quindi non si separa mai dal suo Allenatore.",
-        "img": "https://serebii.net/pokemon/art/520.png"
-    },
-    {
-        "num": 521,
-        "name": "Unfezant",
-        "types": [
-            "Normale",
-            "Volante"
-        ],
-        "height": 1.2,
-        "weight": 29,
-        "description": "Il maschio con il piumaggio più grande ha le piume più belle. È una scelta ideale per una moglie.",
-        "img": "https://serebii.net/pokemon/art/521.png"
-    },
-    {
-        "num": 522,
-        "name": "Blitzle",
-        "types": [
-            "Elettro"
-        ],
-        "height": 0.8,
-        "weight": 29.8,
-        "description": "Quando il cielo è coperto da nuvole temporalesche, apparirà. Può catturare i fulmini con la sua criniera e immagazzinare l'elettricità.",
-        "img": "https://serebii.net/pokemon/art/522.png"
-    },
-    {
-        "num": 523,
-        "name": "Zebstrika",
-        "types": [
-            "Elettro"
-        ],
-        "height": 1.6,
-        "weight": 79.5,
-        "description": "Questo Pokémon di malumore è pericoloso perché quando è arrabbiato, spara fulmini dalla sua criniera in tutte le direzioni.",
-        "img": "https://serebii.net/pokemon/art/523.png"
-    },
-    {
-        "num": 524,
-        "name": "Roggenrola",
-        "types": [
-            "Roccia"
-        ],
-        "height": 0.4,
-        "weight": 18,
-        "description": "La sua orecchia è di forma esagonale. Compresso sotto terra, il suo corpo è duro come l'acciaio.",
-        "img": "https://serebii.net/pokemon/art/524.png"
-    },
-    {
-        "num": 525,
-        "name": "Boldore",
-        "types": [
-            "Roccia"
-        ],
-        "height": 0.9,
-        "weight": 102,
-        "description": "Quando trabocca di potere, il cristallo arancione sul suo corpo si illumina. Cerca acqua sotterranea nelle grotte.",
-        "img": "https://serebii.net/pokemon/art/525.png"
-    },
-    {
-        "num": 526,
-        "name": "Gigalith",
-        "types": [
-            "Roccia"
-        ],
-        "height": 1.7,
-        "weight": 260,
-        "description": "Comprimere l'energia dal suo nucleo interno gli consente di lanciare un attacco capace di abbattere una montagna.",
-        "img": "https://serebii.net/pokemon/art/526.png"
-    },
-    {
-        "num": 527,
-        "name": "Woobat",
-        "types": [
-            "Psico",
-            "Volante"
-        ],
-        "height": 0.4,
-        "weight": 2.1,
-        "description": "Il suo habitat sono foreste oscure e caverne. Emette onde ultrasoniche dal suo naso per apprendere del suo ambiente.",
-        "img": "https://serebii.net/pokemon/art/527.png"
-    },
-    {
-        "num": 528,
-        "name": "Swoobat",
-        "types": [
-            "Psico",
-            "Volante"
-        ],
-        "height": 0.9,
-        "weight": 10.5,
-        "description": "Chiunque entri in contatto con le onde ultrasoniche emesse da un maschio corteggiante sperimenta un cambiamento d'umore positivo.",
-        "img": "https://serebii.net/pokemon/art/528.png"
-    },
-    {
-        "num": 529,
-        "name": "Drilbur",
-        "types": [
-            "Terra"
-        ],
-        "height": 0.3,
-        "weight": 8.5,
-        "description": "Può scavare nel terreno a una velocità di 30 miglia all'ora. Potrebbe competere bene con una macchina che corre in superficie.",
-        "img": "https://serebii.net/pokemon/art/529.png"
-    },
-    {
-        "num": 530,
-        "name": "Excadrill",
-        "types": [
-            "Terra",
-            "Acciaio"
-        ],
-        "height": 0.7,
-        "weight": 40.4,
-        "description": "A più di 300 piedi sotto la superficie, costruisce nidi labirintici. È anche noto per causare terremoti.",
-        "img": "https://serebii.net/pokemon/art/530.png"
-    },
-    {
-        "num": 531,
-        "name": "Audino",
-        "types": [
-            "Normale"
-        ],
-        "height": 1.1,
-        "weight": 31,
-        "description": "Usando gli antenna sulle sue orecchie, può capire come si sente qualcuno o quando un uovo potrebbe schiudersi.",
-        "img": "https://serebii.net/pokemon/art/531.png"
-    },
-    {
-        "num": 532,
-        "name": "Timburr",
-        "types": [
-            "Lotta"
-        ],
-        "height": 0.6,
-        "weight": 12.5,
-        "description": "Porta un tronco ben fatto, che usa per schiacciare i suoi avversari. Nelle case degli umani, viene usato per aiutare nella costruzione.",
-        "img": "https://serebii.net/pokemon/art/532.png"
-    },
-    {
-        "num": 533,
-        "name": "Gurdurr",
-        "types": [
-            "Lotta"
-        ],
-        "height": 1.2,
-        "weight": 40,
-        "description": "Nei cantieri, questo Pokémon porta un'enorme trave. È uno dei Pokémon che trainano i Poke Mart.",
-        "img": "https://serebii.net/pokemon/art/533.png"
-    },
-    {
-        "num": 534,
-        "name": "Conkeldurr",
-        "types": [
-            "Lotta"
-        ],
-        "height": 1.4,
-        "weight": 87,
-        "description": "Può apparire ovunque ci sia costruzione. Maneggia abilmente una massiccia colonna di cemento.",
-        "img": "https://serebii.net/pokemon/art/534.png"
-    },
-    {
-        "num": 535,
-        "name": "Tympole",
-        "types": [
-            "Acqua"
-        ],
-        "height": 0.5,
-        "weight": 4.5,
-        "description": "Avvertono gli altri del pericolo vibrando le guance per creare un suono acuto.",
-        "img": "https://serebii.net/pokemon/art/535.png"
-    },
-    {
-        "num": 536,
-        "name": "Palpitoad",
-        "types": [
-            "Acqua",
-            "Terra"
-        ],
-        "height": 0.8,
-        "weight": 17,
-        "description": "Debilita la sua preda con onde sonore abbastanza intense da causare mal di testa, poi li avvolge con la sua lingua appiccicosa.",
-        "img": "https://serebii.net/pokemon/art/536.png"
-    },
-    {
-        "num": 537,
-        "name": "Seismitoad",
-        "types": [
-            "Acqua",
-            "Terra"
-        ],
-        "height": 1.5,
-        "weight": 62,
-        "description": "Aumenta la potenza dei suoi pugni vibrando i nodi sui suoi pugni. Può ridurre un masso a macerie con un solo pugno.",
-        "img": "https://serebii.net/pokemon/art/537.png"
-    },
-    {
-        "num": 538,
-        "name": "Throh",
-        "types": [
-            "Lotta"
-        ],
-        "height": 1.3,
-        "weight": 55.5,
-        "description": "Quando si allaccia la cintura, diventa più forte. I Throh selvatici usano le viti per intrecciare le loro cinture.",
-        "img": "https://serebii.net/pokemon/art/538.png"
-    },
-    {
-        "num": 539,
-        "name": "Sawk",
-        "types": [
-            "Lotta"
-        ],
-        "height": 1.4,
-        "weight": 51,
-        "description": "Legare le cinture li pompa e rende i loro pugni più distruttivi. Disturbare il loro allenamento li fa arrabbiare.",
-        "img": "https://serebii.net/pokemon/art/539.png"
-    },
-    {
-        "num": 540,
-        "name": "Sewaddle",
-        "types": [
-            "Coleott.",
-            "Erba"
-        ],
-        "height": 0.3,
-        "weight": 2.5,
-        "description": "Le larve di questa specie sono conosciute per avvolgere foglie intorno ai loro corpi per protezione.",
-        "img": "https://serebii.net/pokemon/art/540.png"
-    },
-    {
-        "num": 541,
-        "name": "Swadloon",
-        "types": [
-            "Coleott.",
-            "Erba"
-        ],
-        "height": 0.5,
-        "weight": 7.3,
-        "description": "Molto, molto tempo fa, viveva nelle profondità del mare. Poi gli esseri umani l'hanno trasformato in energia.",
-        "img": "https://serebii.net/pokemon/art/541.png"
-    },
-    {
-        "num": 542,
-        "name": "Leavanny",
-        "types": [
-            "Coleott.",
-            "Erba"
-        ],
-        "height": 1.2,
-        "weight": 20.5,
-        "description": "Trova un piccolo Pokémon e gli intreccia un vestito fatto di foglie, usando i tagli sulle sue braccia e la seta appiccicosa.",
-        "img": "https://serebii.net/pokemon/art/542.png"
-    },
-    {
-        "num": 543,
-        "name": "Venipede",
-        "types": [
-            "Coleott.",
-            "Veleno"
-        ],
-        "height": 0.4,
-        "weight": 5.3,
-        "description": "Scopre cosa sta succedendo intorno a lui usando gli aculei sulla testa e sulla coda. È brutalmente aggressivo.",
-        "img": "https://serebii.net/pokemon/art/543.png"
-    },
-    {
-        "num": 544,
-        "name": "Whirlipede",
-        "types": [
-            "Coleott.",
-            "Veleno"
-        ],
-        "height": 1.2,
-        "weight": 58.5,
-        "description": "Protetto da un guscio duro, gira il corpo come una ruota e si schianta furiosamente sui nemici.",
-        "img": "https://serebii.net/pokemon/art/544.png"
-    },
-    {
-        "num": 545,
-        "name": "Scolipede",
-        "types": [
-            "Coleott.",
-            "Veleno"
-        ],
-        "height": 2.5,
-        "weight": 200.5,
-        "description": "Con movimenti veloci, insegue i suoi nemici, attaccando implacabilmente con le sue corna fino a prevalere.",
-        "img": "https://serebii.net/pokemon/art/545.png"
-    },
-    {
-        "num": 546,
-        "name": "Cottonee",
-        "types": [
-            "Erba",
-            "Fairy"
-        ],
-        "height": 0.3,
-        "weight": 0.6,
-        "description": "Quando attaccato, si difende chiudendo il coperchio del suo guscio. Può sputare un liquido appiccicoso e velenoso.",
-        "img": "https://serebii.net/pokemon/art/546.png"
-    },
-    {
-        "num": 547,
-        "name": "Whimsicott",
-        "types": [
-            "Erba",
-            "Fairy"
-        ],
-        "height": 0.7,
-        "weight": 6.6,
-        "description": "Il vento dal suo cotone può stordire gli avversari. Il suo polline diventa anche appiccicoso per un po', quindi raccoglie molto polline.",
-        "img": "https://serebii.net/pokemon/art/547.png"
-    },
-    {
-        "num": 548,
-        "name": "Petilil",
-        "types": [
-            "Erba"
-        ],
-        "height": 0.5,
-        "weight": 6.6,
-        "description": "Vive in zone con aria e acqua pulite. I suoi lunghi capelli brillano come i raggi del sole.",
-        "img": "https://serebii.net/pokemon/art/548.png"
-    },
-    {
-        "num": 549,
-        "name": "Lilligant",
-        "types": [
-            "Erba"
-        ],
-        "height": 1.1,
-        "weight": 16.3,
-        "description": "Quando ha l'occasione, sotterra la sua bocca appiccicosa e a ventosa nella preda e le succhia i fluidi corporei.",
-        "img": "https://serebii.net/pokemon/art/549.png"
-    },
-    {
-        "num": 550,
-        "name": "Basculin",
-        "types": [
-            "Acqua"
-        ],
-        "height": 1,
-        "weight": 18,
-        "description": "Basculin rosso e blu vanno d'accordo così male che inizieranno a combattere istantaneamente. Questi Pokémon sono molto ostili.",
-        "img": "https://serebii.net/pokemon/art/550.png"
-    },
-    {
-        "num": 551,
-        "name": "Sandile",
-        "types": [
-            "Terra",
-            "Buio"
-        ],
-        "height": 0.7,
-        "weight": 15.2,
-        "description": "Quando vedono un nemico, i loro peli si drizzano e le loro code puntano dritte in su mentre si preparano a affrontare il loro avversario.",
-        "img": "https://serebii.net/pokemon/art/551.png"
-    },
-    {
-        "num": 552,
-        "name": "Krokorok",
-        "types": [
-            "Terra",
-            "Buio"
-        ],
-        "height": 1,
-        "weight": 33.4,
-        "description": "È una vista comune nei deserti. La sua tasca di sabbia è cresciuta molto, grazie alla continua raccolta di sabbia.",
-        "img": "https://serebii.net/pokemon/art/552.png"
-    },
-    {
-        "num": 553,
-        "name": "Krookodile",
-        "types": [
-            "Terra",
-            "Buio"
-        ],
-        "height": 1.5,
-        "weight": 96.3,
-        "description": "Non permettono mai alla preda di sfuggire. Le loro mascelle sono così potenti che possono schiacciare il corpo di un'automobile.",
-        "img": "https://serebii.net/pokemon/art/553.png"
-    },
-    {
-        "num": 554,
-        "name": "Darumaka",
-        "types": [
-            "Fuoco"
-        ],
-        "height": 0.6,
-        "weight": 37.5,
-        "description": "Quando dorme, ritira gli arti nel suo corpo e il suo fuoco interno scende a 1100 gradi Fahrenheit.",
-        "img": "https://serebii.net/pokemon/art/554.png"
-    },
-    {
-        "num": 555,
-        "name": "Darmanitan",
-        "types": [
-            "Fuoco"
-        ],
-        "height": 1.3,
-        "weight": 92.9,
-        "description": "Il suo fuoco interno brucia a 2500 gradi Fahrenheit, producendo abbastanza potenza da poter distruggere un camion con un solo pugno.",
-        "img": "https://serebii.net/pokemon/art/555.png"
-    },
-    {
-        "num": 556,
-        "name": "Maractus",
-        "types": [
-            "Erba"
-        ],
-        "height": 1,
-        "weight": 28,
-        "description": "Quando si muove ritmicamente, emette un suono simile a maracas, che è noto per far nervosi gli avversari.",
-        "img": "https://serebii.net/pokemon/art/556.png"
-    },
-    {
-        "num": 557,
-        "name": "Dwebble",
-        "types": [
-            "Coleott.",
-            "Roccia"
-        ],
-        "height": 0.3,
-        "weight": 14.5,
-        "description": "Quando trova una pietra di dimensioni adatte, secerne un liquido dalla sua bocca per aprire un buco in cui strisciare.",
-        "img": "https://serebii.net/pokemon/art/557.png"
-    },
-    {
-        "num": 558,
-        "name": "Crustle",
-        "types": [
-            "Coleott.",
-            "Roccia"
-        ],
-        "height": 1.4,
-        "weight": 200,
-        "description": "Ha gambe di enorme forza, che gli consentono di trasportare lastre pesanti per molti giorni, anche attraversando terre aride.",
-        "img": "https://serebii.net/pokemon/art/558.png"
-    },
-    {
-        "num": 559,
-        "name": "Scraggy",
-        "types": [
-            "Buio",
-            "Lotta"
-        ],
-        "height": 0.6,
-        "weight": 11.8,
-        "description": "La sua pelle ha un'elasticità gommosa, quindi può ridurre i danni tirando difensivamente la pelle fino al collo.",
-        "img": "https://serebii.net/pokemon/art/559.png"
-    },
-    {
-        "num": 560,
-        "name": "Scrafty",
-        "types": [
-            "Buio",
-            "Lotta"
-        ],
-        "height": 1.1,
-        "weight": 30,
-        "description": "Gruppi di loro picchiano chiunque entri nel loro territorio. Ognuno può sputare liquido acido dalla sua bocca.",
-        "img": "https://serebii.net/pokemon/art/560.png"
-    },
-    {
-        "num": 561,
-        "name": "Sigilyph",
-        "types": [
-            "Psico",
-            "Volante"
-        ],
-        "height": 1.4,
-        "weight": 14,
-        "description": "I guardiani di una città antica, usano il loro potere psichico per attaccare nemici che invadono il loro territorio.",
-        "img": "https://serebii.net/pokemon/art/561.png"
-    },
-    {
-        "num": 562,
-        "name": "Yamask",
-        "types": [
-            "Spettro"
-        ],
-        "height": 0.5,
-        "weight": 1.5,
-        "description": "Questi Pokémon sono nati dagli spiriti di persone sepolte in tombe in epoche passate. Ognuno conserva i ricordi della sua vita passata.",
-        "img": "https://serebii.net/pokemon/art/562.png"
-    },
-    {
-        "num": 563,
-        "name": "Cofagrigus",
-        "types": [
-            "Spettro"
-        ],
-        "height": 1.7,
-        "weight": 76.5,
-        "description": "Si dice che inghiottiscano coloro che si avvicinano troppo e li trasformino in mummie. Amano mangiare pepite d'oro.",
-        "img": "https://serebii.net/pokemon/art/563.png"
-    },
-    {
-        "num": 564,
-        "name": "Tirtouga",
-        "types": [
-            "Acqua",
-            "Roccia"
-        ],
-        "height": 0.7,
-        "weight": 16.5,
-        "description": "Circa 100 milioni di anni fa, questi Pokémon nuotavano negli oceani. Si pensa che siano anche andati sulla terraferma per attaccare la preda.",
-        "img": "https://serebii.net/pokemon/art/564.png"
-    },
-    {
-        "num": 565,
-        "name": "Carracosta",
-        "types": [
-            "Acqua",
-            "Roccia"
-        ],
-        "height": 1.2,
-        "weight": 81,
-        "description": "Poteva abbattere un nemico con uno schiaffo da una delle sue sviluppate appendici anteriori e masticarlo, guscio o ossa e tutto.",
-        "img": "https://serebii.net/pokemon/art/565.png"
-    },
-    {
-        "num": 566,
-        "name": "Archen",
-        "types": [
-            "Roccia",
-            "Volante"
-        ],
-        "height": 0.5,
-        "weight": 9.5,
-        "description": "Le ossa delle sue ali sono considerate i resti dei suoi antenati che non potevano volare. Corre velocemente come qualsiasi altro Pokémon volante.",
-        "img": "https://serebii.net/pokemon/art/566.png"
-    },
-    {
-        "num": 567,
-        "name": "Archeops",
-        "types": [
-            "Roccia",
-            "Volante"
-        ],
-        "height": 1.4,
-        "weight": 32,
-        "description": "Sono intelligenti e coopereranno per catturare la preda. Da terra, usano una corsa per prendere il volo.",
-        "img": "https://serebii.net/pokemon/art/567.png"
-    },
-    {
-        "num": 568,
-        "name": "Trubbish",
-        "types": [
-            "Veleno"
-        ],
-        "height": 0.6,
-        "weight": 31,
-        "description": "I luoghi preferiti di Trubbish sono quelli insalubri. Se lasci spazzatura in giro, potresti persino trovarne uno di questi Pokémon nella tua stanza.",
-        "img": "https://serebii.net/pokemon/art/568.png"
-    },
-    {
-        "num": 569,
-        "name": "Garbodor",
-        "types": [
-            "Veleno"
-        ],
-        "height": 1.9,
-        "weight": 107.3,
-        "description": "Assorbono la spazzatura e la fanno parte del loro corpo. Sparano un liquido velenoso dalle dita della mano destra.",
-        "img": "https://serebii.net/pokemon/art/569.png"
-    },
-    {
-        "num": 570,
-        "name": "Zorua",
-        "types": [
-            "Buio"
-        ],
-        "height": 0.7,
-        "weight": 12.5,
-        "description": "Si trasforma nelle forme degli altri per sorprenderli. Apparentemente, si trasforma spesso in un bambino silenzioso.",
-        "img": "https://serebii.net/pokemon/art/570.png"
-    },
-    {
-        "num": 571,
-        "name": "Zoroark",
-        "types": [
-            "Buio"
-        ],
-        "height": 1.6,
-        "weight": 81.1,
-        "description": "Protegge la sicurezza del suo branco ingannando i suoi avversari.",
-        "img": "https://serebii.net/pokemon/art/571.png"
-    },
-    {
-        "num": 572,
-        "name": "Minccino",
-        "types": [
-            "Normale"
-        ],
-        "height": 0.4,
-        "weight": 5.8,
-        "description": "I predatori vanno dopo il punto più debole di un branco, quindi questo Pokémon è naturalmente astuto.",
-        "img": "https://serebii.net/pokemon/art/572.png"
-    },
-    {
-        "num": 573,
-        "name": "Cinccino",
-        "types": [
-            "Normale"
-        ],
-        "height": 0.5,
-        "weight": 7.5,
-        "description": "Si salutano sfregandosi le code, che tengono sempre ben curate e pulite.",
-        "img": "https://serebii.net/pokemon/art/573.png"
-    },
-    {
-        "num": 574,
-        "name": "Gothita",
-        "types": [
-            "Psico"
-        ],
-        "height": 0.4,
-        "weight": 5.8,
-        "description": "La loro pelliccia bianca è incredibile al tatto. La loro pelliccia respinge la polvere e impedisce l'accumulo di elettricità statica.",
-        "img": "https://serebii.net/pokemon/art/574.png"
-    },
-    {
-        "num": 575,
-        "name": "Gothorita",
-        "types": [
-            "Psico"
-        ],
-        "height": 0.7,
-        "weight": 18,
-        "description": "Osservano attentamente sia gli Allenatori che i Pokémon. Apparentemente, stanno guardando qualcosa che solo loro possono vedere.",
-        "img": "https://serebii.net/pokemon/art/575.png"
-    },
-    {
-        "num": 576,
-        "name": "Gothitelle",
-        "types": [
-            "Psico"
-        ],
-        "height": 1.5,
-        "weight": 44,
-        "description": "Usano l'ipnosi per controllare persone e Pokémon. Racconti di Gothorita che inducono le persone in errore sono raccontati in ogni angolo.",
-        "img": "https://serebii.net/pokemon/art/576.png"
-    },
-    {
-        "num": 577,
-        "name": "Solosis",
-        "types": [
-            "Psico"
-        ],
-        "height": 0.3,
-        "weight": 1,
-        "description": "Cielo stellato a migliaia di anni luce di distanza è visibile nello spazio distorto dalla loro intensa potenza psichica.",
-        "img": "https://serebii.net/pokemon/art/577.png"
-    },
-    {
-        "num": 578,
-        "name": "Duosion",
-        "types": [
-            "Psico"
-        ],
-        "height": 0.6,
-        "weight": 8,
-        "description": "Allontanano gli attaccanti liberando il potere psichico. Possono usare la telepatia per parlare con gli altri.",
-        "img": "https://serebii.net/pokemon/art/578.png"
-    },
-    {
-        "num": 579,
-        "name": "Reuniclus",
-        "types": [
-            "Psico"
-        ],
-        "height": 1,
-        "weight": 20.1,
-        "description": "Quando i loro cervelli, ora divisi in due, stanno pensando alla stessa cosa, questi Pokémon esibiscono la loro massima potenza psichica.",
-        "img": "https://serebii.net/pokemon/art/579.png"
-    },
-    {
-        "num": 580,
-        "name": "Ducklett",
-        "types": [
-            "Acqua",
-            "Volante"
-        ],
-        "height": 0.5,
-        "weight": 5.5,
-        "description": "Il fluido verde secreto dal suo corpo contiene enzimi speciali che fanno combustione spontanea ai Pokémon che sbatte.",
-        "img": "https://serebii.net/pokemon/art/580.png"
-    },
-    {
-        "num": 581,
-        "name": "Swanna",
-        "types": [
-            "Acqua",
-            "Volante"
-        ],
-        "height": 1.3,
-        "weight": 24.2,
-        "description": "Questi Pokémon sono eccellenti tuffatori. Nuotano in graziosi stormi, causando alle piume sparse di assomigliare a un mazzo di fiori.",
-        "img": "https://serebii.net/pokemon/art/581.png"
-    },
-    {
-        "num": 582,
-        "name": "Vanillite",
-        "types": [
-            "Ghiaccio"
-        ],
-        "height": 0.4,
-        "weight": 5.7,
-        "description": "Swanna inizia a ballare al crepuscolo. Quello che balla al centro è il capo del branco.",
-        "img": "https://serebii.net/pokemon/art/582.png"
-    },
-    {
-        "num": 583,
-        "name": "Vanillish",
-        "types": [
-            "Ghiaccio"
-        ],
-        "height": 1.1,
-        "weight": 41,
-        "description": "Quando la temperatura è aumentata alla fine dell'era glaciale, la maggior parte di Vanillite si è spostata in aree più",
-        "img": "https://serebii.net/pokemon/art/583.png"
-    },
-    {
-        "num": 584,
-        "name": "Vanilluxe",
-        "types": [
-            "Ghiaccio"
-        ],
-        "height": 1.3,
-        "weight": 57.5,
-        "description": "Montagne innevate sono l'habitat di questo Pokémon. Durante un antico periodo glaciale, si sono spostati verso aree meridionali.",
-        "img": "https://serebii.net/pokemon/art/584.png"
-    },
-    {
-        "num": 585,
-        "name": "Deerling",
-        "types": [
-            "Normale",
-            "Erba"
-        ],
-        "height": 0.6,
-        "weight": 19.5,
-        "description": "Questo Pokémon esiste dall'Età del Ghiaccio. Controlla particelle di ghiaccio, congela i suoi avversari e crea cristalli di ghiaccio per proteggersi.",
-        "img": "https://serebii.net/pokemon/art/585.png"
-    },
-    {
-        "num": 586,
-        "name": "Sawsbuck",
-        "types": [
-            "Normale",
-            "Erba"
-        ],
-        "height": 1.9,
-        "weight": 92.5,
-        "description": "Il cambio delle stagioni cambia il colore e il profumo del pelo di questo Pokémon. Le persone lo usano per segnare le stagioni.",
-        "img": "https://serebii.net/pokemon/art/586.png"
-    },
-    {
-        "num": 587,
-        "name": "Emolga",
-        "types": [
-            "Elettro",
-            "Volante"
-        ],
-        "height": 0.4,
-        "weight": 5,
-        "description": "Migrano in base alle stagioni, quindi alcune persone chiamano Sawsbuck gli araldi della primavera.",
-        "img": "https://serebii.net/pokemon/art/587.png"
-    },
-    {
-        "num": 588,
-        "name": "Karrablast",
-        "types": [
-            "Coleott."
-        ],
-        "height": 0.5,
-        "weight": 5.9,
-        "description": "Accumulano elettricità nelle guance, quindi sentirai una scossa formicolante se li tocchi.",
-        "img": "https://serebii.net/pokemon/art/588.png"
-    },
-    {
-        "num": 589,
-        "name": "Escavalier",
-        "types": [
-            "Coleott.",
-            "Acciaio"
-        ],
-        "height": 1,
-        "weight": 33,
-        "description": "Evolvono quando vengono bagnati da un'energia simile all'elettricità insieme a Shelmet. Karrablast cercherà avversari con cui litigare.",
-        "img": "https://serebii.net/pokemon/art/589.png"
-    },
-    {
-        "num": 590,
-        "name": "Foongus",
-        "types": [
-            "Erba",
-            "Veleno"
-        ],
-        "height": 0.2,
-        "weight": 1,
-        "description": "Volano a grande velocità, colpendo con le loro lance appuntite. Anche quando sono in difficoltà, affrontano coraggiosamente gli avversari.",
-        "img": "https://serebii.net/pokemon/art/590.png"
-    },
-    {
-        "num": 591,
-        "name": "Amoonguss",
-        "types": [
-            "Erba",
-            "Veleno"
-        ],
-        "height": 0.6,
-        "weight": 10.5,
-        "description": "Attrae i Pokémon con il suo motivo che assomiglia a una Poké Ball, poi rilascia spore velenose.",
-        "img": "https://serebii.net/pokemon/art/591.png"
-    },
-    {
-        "num": 592,
-        "name": "Frillish",
-        "types": [
-            "Acqua",
-            "Spettro"
-        ],
-        "height": 1.2,
-        "weight": 33,
-        "description": "Muove i cappucci su entrambe le braccia e fa una danza per attirare le prede. Preferisce luoghi umidi.",
-        "img": "https://serebii.net/pokemon/art/592.png"
-    },
-    {
-        "num": 593,
-        "name": "Jellicent",
-        "types": [
-            "Acqua",
-            "Spettro"
-        ],
-        "height": 2.2,
-        "weight": 135,
-        "description": "Nascosto nei bassi fondali, aspetta pazientemente che la preda si avvicini. Quando succede, Frillish e i suoi tentacoli la afferrano e la avvelenano.",
-        "img": "https://serebii.net/pokemon/art/593.png"
-    },
-    {
-        "num": 594,
-        "name": "Alomomola",
-        "types": [
-            "Acqua"
-        ],
-        "height": 1.2,
-        "weight": 31.6,
-        "description": "In tempi antichi, i governatori dei castelli invitavano Jellicent a creare barriere contro gli invasori.",
-        "img": "https://serebii.net/pokemon/art/594.png"
-    },
-    {
-        "num": 595,
-        "name": "Joltik",
-        "types": [
-            "Coleott.",
-            "Elettro"
-        ],
-        "height": 0.1,
-        "weight": 0.6,
-        "description": "La membrana speciale che avvolge il corpo di Alomomola gli permette di curare le ferite rilasciando una membrana curativa.",
-        "img": "https://serebii.net/pokemon/art/595.png"
-    },
-    {
-        "num": 596,
-        "name": "Galvantula",
-        "types": [
-            "Coleott.",
-            "Elettro"
-        ],
-        "height": 0.8,
-        "weight": 14.3,
-        "description": "Si attaccano a Pokémon di grandi dimensioni e assorbono l'elettricità statica, che conservano in una tasca elettrica.",
-        "img": "https://serebii.net/pokemon/art/596.png"
-    },
-    {
-        "num": 597,
-        "name": "Ferroseed",
-        "types": [
-            "Erba",
-            "Acciaio"
-        ],
-        "height": 0.6,
-        "weight": 18.8,
-        "description": "Quando attaccati, creano una barriera elettrica sputando un filo appiccicoso e scaricando corrente ad alta tensione.",
-        "img": "https://serebii.net/pokemon/art/597.png"
-    },
-    {
-        "num": 598,
-        "name": "Ferrothorn",
-        "types": [
-            "Erba",
-            "Acciaio"
-        ],
-        "height": 1,
-        "weight": 110,
-        "description": "Infilano le loro spine nelle pareti delle caverne e assorbono i minerali che trovano nella roccia.",
-        "img": "https://serebii.net/pokemon/art/598.png"
-    },
-    {
-        "num": 599,
-        "name": "Klink",
-        "types": [
-            "Acciaio"
-        ],
-        "height": 0.3,
-        "weight": 21,
-        "description": "Si attaccano ai soffitti delle caverne, sparando spine di acciaio ai bersagli che passano sotto di loro.",
-        "img": "https://serebii.net/pokemon/art/599.png"
-    },
-    {
-        "num": 600,
-        "name": "Klang",
-        "types": [
-            "Acciaio"
-        ],
-        "height": 0.6,
-        "weight": 51,
-        "description": "I due ingranaggi che si incastrano sono predestinati. Ognuno rimbalzerà dagli altri ingranaggi senza incastrarsi.",
-        "img": "https://serebii.net/pokemon/art/600.png"
-    },
-    {
-        "num": 601,
-        "name": "Klinklang",
-        "types": [
-            "Acciaio"
-        ],
-        "height": 0.6,
-        "weight": 81,
-        "description": "Cambiando la direzione in cui ruota, comunica i suoi sentimenti agli altri. Quando è arrabbiato, ruota più velocemente.",
-        "img": "https://serebii.net/pokemon/art/601.png"
-    },
-    {
-        "num": 602,
-        "name": "Tynamo",
-        "types": [
-            "Elettro"
-        ],
-        "height": 0.2,
-        "weight": 0.3,
-        "description": "L'ingranaggio con il nucleo rosso ruota a grande velocità per una rapida carica energetica.",
-        "img": "https://serebii.net/pokemon/art/602.png"
-    },
-    {
-        "num": 603,
-        "name": "Eelektrik",
-        "types": [
-            "Elettro"
-        ],
-        "height": 1.2,
-        "weight": 22,
-        "description": "Anche se uno da solo non ha molta potenza, una catena di molti Tynamo può essere potente come un fulmine.",
-        "img": "https://serebii.net/pokemon/art/603.png"
-    },
-    {
-        "num": 604,
-        "name": "Eelektross",
-        "types": [
-            "Elettro"
-        ],
-        "height": 2.1,
-        "weight": 80.5,
-        "description": "Si avvolge intorno alla preda e la paralizza con l'elettricità dalle macchie rotonde sui lati. Poi morde.",
-        "img": "https://serebii.net/pokemon/art/604.png"
-    },
-    {
-        "num": 605,
-        "name": "Elgyem",
-        "types": [
-            "Psico"
-        ],
-        "height": 0.5,
-        "weight": 9,
-        "description": "Escono dall'oceano usando le braccia. Attaccano le prede sulla riva e le trascinano immediatamente in acqua.",
-        "img": "https://serebii.net/pokemon/art/605.png"
-    },
-    {
-        "num": 606,
-        "name": "Beheeyem",
-        "types": [
-            "Psico"
-        ],
-        "height": 1,
-        "weight": 34.5,
-        "description": "Usa la sua forte potenza psichica per schiacciare il cervello dell'avversario, causando emicranie insopportabili.",
-        "img": "https://serebii.net/pokemon/art/606.png"
-    },
-    {
-        "num": 607,
-        "name": "Litwick",
-        "types": [
-            "Spettro",
-            "Fuoco"
-        ],
-        "height": 0.3,
-        "weight": 3.1,
-        "description": "Può manipolare la memoria dell'avversario. Apparentemente, comunica lampeggiando i suoi tre diti di colori diversi.",
-        "img": "https://serebii.net/pokemon/art/607.png"
-    },
-    {
-        "num": 608,
-        "name": "Lampent",
-        "types": [
-            "Spettro",
-            "Fuoco"
-        ],
-        "height": 0.6,
-        "weight": 13,
-        "description": "Litwick emette una luce che assorbe l'energia vitale di persone e Pokémon, che diventa il combustibile che brucia.",
-        "img": "https://serebii.net/pokemon/art/608.png"
-    },
-    {
-        "num": 609,
-        "name": "Chandelure",
-        "types": [
-            "Spettro",
-            "Fuoco"
-        ],
-        "height": 1,
-        "weight": 34.3,
-        "description": "Questo Pokémon inquietante è temuto. Vaga attraverso le città alla ricerca degli spiriti dei caduti.",
-        "img": "https://serebii.net/pokemon/art/609.png"
-    },
-    {
-        "num": 610,
-        "name": "Axew",
-        "types": [
-            "Drago"
-        ],
-        "height": 0.6,
-        "weight": 18,
-        "description": "Essere consumati dalla fiamma di Chandelure brucia lo spirito, lasciando il corpo dietro.",
-        "img": "https://serebii.net/pokemon/art/610.png"
-    },
-    {
-        "num": 611,
-        "name": "Fraxure",
-        "types": [
-            "Drago"
-        ],
-        "height": 1,
-        "weight": 36,
-        "description": "Usano le zanne per schiacciare le bacche che mangiano. La rigenerazione ripetuta rende le zanne forti e affilate.",
-        "img": "https://serebii.net/pokemon/art/611.png"
-    },
-    {
-        "num": 612,
-        "name": "Haxorus",
-        "types": [
-            "Drago"
-        ],
-        "height": 1.8,
-        "weight": 105.5,
-        "description": "Poiché un dente rotto non crescerà di nuovo, affilano diligentemente le zanne su rocce fluviali dopo essere stati in lotta.",
-        "img": "https://serebii.net/pokemon/art/612.png"
-    },
-    {
-        "num": 613,
-        "name": "Cubchoo",
-        "types": [
-            "Ghiaccio"
-        ],
-        "height": 0.5,
-        "weight": 8.5,
-        "description": "Le loro robuste zanne rimarranno affilate anche se usate per tagliare travi d'acciaio. Questi Pokémon sono coperti da una dura corazza.",
-        "img": "https://serebii.net/pokemon/art/613.png"
-    },
-    {
-        "num": 614,
-        "name": "Beartic",
-        "types": [
-            "Ghiaccio"
-        ],
-        "height": 2.6,
-        "weight": 260,
-        "description": "Il suo naso cola sempre. Aspira il muco perché il muco fornisce la materia prima per le sue mosse.",
-        "img": "https://serebii.net/pokemon/art/614.png"
-    },
-    {
-        "num": 615,
-        "name": "Cryogonal",
-        "types": [
-            "Ghiaccio"
-        ],
-        "height": 1.1,
-        "weight": 148,
-        "description": "Può far congelare il suo respiro a volontà. Quando minacciato, emette una nuvola di aria fredda.",
-        "img": "https://serebii.net/pokemon/art/615.png"
-    },
-    {
-        "num": 616,
-        "name": "Shelmet",
-        "types": [
-            "Coleott."
-        ],
-        "height": 0.4,
-        "weight": 7.7,
-        "description": "Nascono nelle nuvole di neve. Usano catene fatte di cristalli di ghiaccio per catturare le prede.",
-        "img": "https://serebii.net/pokemon/art/616.png"
-    },
-    {
-        "num": 617,
-        "name": "Accelgor",
-        "types": [
-            "Coleott."
-        ],
-        "height": 0.8,
-        "weight": 25.3,
-        "description": "Quando attaccato, si difende chiudendo il coperchio del suo guscio. Può sputare un liquido appiccicoso e velenoso.",
-        "img": "https://serebii.net/pokemon/art/617.png"
-    },
-    {
-        "num": 618,
-        "name": "Stunfisk",
-        "types": [
-            "Terra",
-            "Elettro"
-        ],
-        "height": 0.7,
-        "weight": 11,
-        "description": "Avendo rimosso il suo pesante guscio, si muove leggermente e velocemente. Si fa strada attraverso caverne strette come se stesse volando.",
-        "img": "https://serebii.net/pokemon/art/618.png"
-    },
-    {
-        "num": 619,
-        "name": "Mienfoo",
-        "types": [
-            "Lotta"
-        ],
-        "height": 0.9,
-        "weight": 20,
-        "description": "Si sdraia perfettamente immobile nel fango. Aspetta che la preda lo tocchi. Quando succede, balza sulla preda e le infligge una scossa di elettricità.",
-        "img": "https://serebii.net/pokemon/art/619.png"
-    },
-    {
-        "num": 620,
-        "name": "Mienshao",
-        "types": [
-            "Lotta"
-        ],
-        "height": 1.4,
-        "weight": 35.5,
-        "description": "Quando Mienshao ha affinato completamente i suoi poteri psichici, il suo pelo diventa ancora più setoso di prima.",
-        "img": "https://serebii.net/pokemon/art/620.png"
-    },
-    {
-        "num": 621,
-        "name": "Druddigon",
-        "types": [
-            "Drago"
-        ],
-        "height": 1.6,
-        "weight": 139,
-        "description": "Si vanta della velocità con cui può usare le mosse. Quello che perde in potenza, lo recupera in quantità.",
-        "img": "https://serebii.net/pokemon/art/621.png"
-    },
-    {
-        "num": 622,
-        "name": "Golett",
-        "types": [
-            "Terra",
-            "Spettro"
-        ],
-        "height": 1,
-        "weight": 92,
-        "description": "Scalda il suo corpo assorbendo la luce solare con le ali. Quando la sua temperatura corporea scende, non può più muoversi.",
-        "img": "https://serebii.net/pokemon/art/622.png"
-    },
-    {
-        "num": 623,
-        "name": "Golurk",
-        "types": [
-            "Terra",
-            "Spettro"
-        ],
-        "height": 2.8,
-        "weight": 330,
-        "description": "L'energia che brucia dentro di lui gli permette di muoversi, ma nessuno è ancora riuscito a identificare questa energia.",
-        "img": "https://serebii.net/pokemon/art/623.png"
-    },
-    {
-        "num": 624,
-        "name": "Pawniard",
-        "types": [
-            "Buio",
-            "Acciaio"
-        ],
-        "height": 0.5,
-        "weight": 10.2,
-        "description": "Vola attraverso il cielo a velocità Mach. Rimuovere il sigillo sul suo petto fa uscire fuori controllo la sua energia interna.",
-        "img": "https://serebii.net/pokemon/art/624.png"
-    },
-    {
-        "num": 625,
-        "name": "Bisharp",
-        "types": [
-            "Buio",
-            "Acciaio"
-        ],
-        "height": 1.6,
-        "weight": 70,
-        "description": "Le lame compongono l'intero corpo di questo Pokémon. Se il combattimento appanna le lame, le affila su pietre lungo il fiume.",
-        "img": "https://serebii.net/pokemon/art/625.png"
-    },
-    {
-        "num": 626,
-        "name": "Bouffalant",
-        "types": [
-            "Normale"
-        ],
-        "height": 1.6,
-        "weight": 94.6,
-        "description": "Guida un gruppo di Pawniard. Combatte per diventare il capo, ma sarà cacciato dal gruppo se perde.",
-        "img": "https://serebii.net/pokemon/art/626.png"
-    },
-    {
-        "num": 627,
-        "name": "Rufflet",
-        "types": [
-            "Normale",
-            "Volante"
-        ],
-        "height": 0.5,
-        "weight": 10.5,
-        "description": "Caricano selvaggiamente e sbattono contro tutto. I loro sbattimenti hanno una forza distruttiva sufficiente a deragliare un treno.",
-        "img": "https://serebii.net/pokemon/art/627.png"
-    },
-    {
-        "num": 628,
-        "name": "Braviary",
-        "types": [
-            "Normale",
-            "Volante"
-        ],
-        "height": 1.5,
-        "weight": 41,
-        "description": "Schiacciano le bacche con i loro artigli. Affrontano coraggiosamente qualsiasi avversario, per quanto forte sia.",
-        "img": "https://serebii.net/pokemon/art/628.png"
-    },
-    {
-        "num": 629,
-        "name": "Vullaby",
-        "types": [
-            "Buio",
-            "Volante"
-        ],
-        "height": 0.5,
-        "weight": 9,
-        "description": "Questo Pokémon ama molto la battaglia e non indietreggia di fronte a nulla. Affronterà qualsiasi pericolo per proteggere i suoi simili.",
-        "img": "https://serebii.net/pokemon/art/629.png"
-    },
-    {
-        "num": 630,
-        "name": "Mandibuzz",
-        "types": [
-            "Buio",
-            "Volante"
-        ],
-        "height": 1.2,
-        "weight": 39.5,
-        "description": "Le sue ali sono troppo piccole per permettergli di volare. Man mano che si avvicina il momento di evolversi, si sbarazza delle ossa che indossava.",
-        "img": "https://serebii.net/pokemon/art/630.png"
-    },
-    {
-        "num": 631,
-        "name": "Heatmor",
-        "types": [
-            "Fuoco"
-        ],
-        "height": 1.4,
-        "weight": 58,
-        "description": "Costruisce un nido con le ossa che trova. Afferra le prede indebolite nei suoi artigli e le trascina nel suo nido di ossa.",
-        "img": "https://serebii.net/pokemon/art/631.png"
-    },
-    {
-        "num": 632,
-        "name": "Durant",
-        "types": [
-            "Coleott.",
-            "Acciaio"
-        ],
-        "height": 0.3,
-        "weight": 33,
-        "description": "Usano le loro lingue coperte di fiamme molto calde per bruciare i corpi d'acciaio di Durant e consumarne l'interno.",
-        "img": "https://serebii.net/pokemon/art/632.png"
-    },
-    {
-        "num": 633,
-        "name": "Deino",
-        "types": [
-            "Buio",
-            "Drago"
-        ],
-        "height": 0.8,
-        "weight": 17.3,
-        "description": "Durant scava tane in montagna. Costruiscono i loro tunnel complicati e interconnessi in labirinti.",
-        "img": "https://serebii.net/pokemon/art/633.png"
-    },
-    {
-        "num": 634,
-        "name": "Zweilous",
-        "types": [
-            "Buio",
-            "Drago"
-        ],
-        "height": 1.4,
-        "weight": 50,
-        "description": "Non possono vedere, quindi affrontano e mordono per imparare il loro ambiente. I loro corpi sono coperti di ferite.",
-        "img": "https://serebii.net/pokemon/art/634.png"
-    },
-    {
-        "num": 635,
-        "name": "Hydreigon",
-        "types": [
-            "Buio",
-            "Drago"
-        ],
-        "height": 1.8,
-        "weight": 160,
-        "description": "Dopo aver mangiato tutto il cibo nel suo territorio, si sposta in un'altra area. Le sue due teste non vanno d'accordo.",
-        "img": "https://serebii.net/pokemon/art/635.png"
-    },
-    {
-        "num": 636,
-        "name": "Larvesta",
-        "types": [
-            "Coleott.",
-            "Fuoco"
-        ],
-        "height": 1.1,
-        "weight": 28.8,
-        "description": "Le teste sui loro arti non hanno cervelli. Usano tutte e tre le teste per consumare e distruggere tutto.",
-        "img": "https://serebii.net/pokemon/art/636.png"
-    },
-    {
-        "num": 637,
-        "name": "Volcarona",
-        "types": [
-            "Coleott.",
-            "Fuoco"
-        ],
-        "height": 1.6,
-        "weight": 46,
-        "description": "Nasce in un vulcano attivo. Il suo corpo è sempre avvolto dalle fiamme, quindi sembra una grande palla di fuoco.",
-        "img": "https://serebii.net/pokemon/art/637.png"
-    },
-    {
-        "num": 638,
-        "name": "Cobalion",
-        "types": [
-            "Acciaio",
-            "Lotta"
-        ],
-        "height": 2.1,
-        "weight": 250,
-        "description": "Un mare di fuoco avvolge i dintorni delle loro battaglie, poiché usano le loro sei ali per sparare le loro scaglie ardenti.",
-        "img": "https://serebii.net/pokemon/art/638.png"
-    },
-    {
-        "num": 639,
-        "name": "Terrakion",
-        "types": [
-            "Roccia",
-            "Lotta"
-        ],
-        "height": 1.9,
-        "weight": 260,
-        "description": "Ha un corpo e un cuore d'acciaio. Il suo sguardo è sufficiente a fare obbedire persino a un Pokémon indisciplinato.",
-        "img": "https://serebii.net/pokemon/art/639.png"
-    },
-    {
-        "num": 640,
-        "name": "Virizion",
-        "types": [
-            "Erba",
-            "Lotta"
-        ],
-        "height": 2,
-        "weight": 200,
-        "description": "La sua carica è abbastanza forte da rompere una grande parete del castello in un solo colpo. Di questo Pokémon si parla nelle leggende.",
-        "img": "https://serebii.net/pokemon/art/640.png"
-    },
-    {
-        "num": 641,
-        "name": "Tornadus",
-        "types": [
-            "Volante"
-        ],
-        "height": 1.5,
-        "weight": 63,
-        "description": "Questo Pokémon ha combattuto gli umani per proteggere i suoi amici. Le leggende su di lui continuano a essere tramandate.",
-        "img": "https://serebii.net/pokemon/art/641.png"
-    },
-    {
-        "num": 642,
-        "name": "Thundurus",
-        "types": [
-            "Elettro",
-            "Volante"
-        ],
-        "height": 1.5,
-        "weight": 61,
-        "description": "Tornadus emette un'energia massiccia dalla sua coda, causando tempeste severe. La sua potenza è sufficiente a soffiare via le case.",
-        "img": "https://serebii.net/pokemon/art/642.png"
-    },
-    {
-        "num": 643,
-        "name": "Reshiram",
-        "types": [
-            "Drago",
-            "Fuoco"
-        ],
-        "height": 3.2,
-        "weight": 330,
-        "description": "Innumerevoli resti carbonizzati deturpano il paesaggio dei luoghi attraversati da Thundurus.",
-        "img": "https://serebii.net/pokemon/art/643.png"
-    },
-    {
-        "num": 644,
-        "name": "Zekrom",
-        "types": [
-            "Drago",
-            "Elettro"
-        ],
-        "height": 2.9,
-        "weight": 345,
-        "description": "Questo Pokémon leggendario può bruciare il mondo con il fuoco. Aiuta coloro che vogliono costruire un mondo di verità.",
-        "img": "https://serebii.net/pokemon/art/644.png"
-    },
-    {
-        "num": 645,
-        "name": "Landorus",
-        "types": [
-            "Terra",
-            "Volante"
-        ],
-        "height": 1.5,
-        "weight": 68,
-        "description": "Questo Pokémon leggendario può bruciare il mondo con i fulmini. Aiuta coloro che vogliono costruire un mondo ideale.",
-        "img": "https://serebii.net/pokemon/art/645.png"
-    },
-    {
-        "num": 646,
-        "name": "Kyurem",
-        "types": [
-            "Drago",
-            "Ghiaccio"
-        ],
-        "height": 3,
-        "weight": 325,
-        "description": "L'energia che sgorga dalla sua coda aumenta la nutrizione nel terreno, facendo crescere le colture a dimensioni enormi.",
-        "img": "https://serebii.net/pokemon/art/646.png"
-    },
-    {
-        "num": 647,
-        "name": "Keldeo",
-        "types": [
-            "Acqua",
-            "Lotta"
-        ],
-        "height": 1.4,
-        "weight": 48.5,
-        "description": "Può produrre aria ultragelida. Il suo corpo è congelato.",
-        "img": "https://serebii.net/pokemon/art/647.png"
-    },
-    {
-        "num": 648,
-        "name": "Meloetta",
-        "types": [
-            "Normale",
-            "Psico"
-        ],
-        "height": 0.6,
-        "weight": 6.5,
-        "description": "Sparando acqua dai suoi zoccoli, può scivolare sull'acqua. Eccelle nell'uso di mosse a gambe durante le battaglie.",
-        "img": "https://serebii.net/pokemon/art/648.png"
-    },
-    {
-        "num": 649,
-        "name": "Genesect",
-        "types": [
-            "Coleott.",
-            "Acciaio"
-        ],
-        "height": 1.5,
-        "weight": 82.5,
-        "description": "Le melodie cantate da Meloetta hanno il potere di rendere felici o tristi i Pokémon che le ascoltano.",
-        "img": "https://serebii.net/pokemon/art/649.png"
-    }
-]
+    "pokemons": [
+        {
+            "num": 494,
+            "name": "Victini",
+            "types": [
+                "Psico",
+                "Fuoco"
+            ],
+            "height": 0.4,
+            "weight": 4,
+            "description": "Questo Pokémon porta la vittoria. Si dice che gli Allenatori con Victini vincono sempre, indipendentemente dal tipo di incontro.",
+            "img": "https://serebii.net/pokemon/art/494.png"
+        },
+        {
+            "num": 495,
+            "name": "Snivy",
+            "types": [
+                "Erba"
+            ],
+            "height": 0.6,
+            "weight": 8.1,
+            "description": "È molto intelligente e calmo. Essere esposto a molta luce solare rende i suoi movimenti più rapidi.",
+            "img": "https://serebii.net/pokemon/art/495.png"
+        },
+        {
+            "num": 496,
+            "name": "Servine",
+            "types": [
+                "Erba"
+            ],
+            "height": 0.8,
+            "weight": 16,
+            "description": "Si muove lungo il terreno come se stesse scivolando. I suoi movimenti rapidi confondono i suoi nemici, e poi attacca con una frusta di vite.",
+            "img": "https://serebii.net/pokemon/art/496.png"
+        },
+        {
+            "num": 497,
+            "name": "Serperior",
+            "types": [
+                "Erba"
+            ],
+            "height": 3.3,
+            "weight": 63,
+            "description": "Può fermare i movimenti dei suoi avversari con uno sguardo. Assorbe l'energia solare e la potenzia internamente.",
+            "img": "https://serebii.net/pokemon/art/497.png"
+        },
+        {
+            "num": 498,
+            "name": "Tepig",
+            "types": [
+                "Fuoco"
+            ],
+            "height": 0.5,
+            "weight": 9.9,
+            "description": "Può schivare agilmente gli attacchi dei suoi nemici sparando palle di fuoco dal naso. Arrostisce le bacche prima di mangiarle.",
+            "img": "https://serebii.net/pokemon/art/498.png"
+        },
+        {
+            "num": 499,
+            "name": "Pignite",
+            "types": [
+                "Fuoco",
+                "Lotta"
+            ],
+            "height": 1,
+            "weight": 55.5,
+            "description": "Più mangia, più carburante ha per il fuoco nello stomaco. Questo lo riempie di ancora più potere.",
+            "img": "https://serebii.net/pokemon/art/499.png"
+        },
+        {
+            "num": 500,
+            "name": "Emboar",
+            "types": [
+                "Fuoco",
+                "Lotta"
+            ],
+            "height": 1.6,
+            "weight": 150,
+            "description": "Può lanciare un pugno infuocato incendiando i suoi pugni con il suo mento infuocato. Si preoccupa profondamente dei suoi amici.",
+            "img": "https://serebii.net/pokemon/art/500.png"
+        },
+        {
+            "num": 501,
+            "name": "Oshawott",
+            "types": [
+                "Acqua"
+            ],
+            "height": 0.5,
+            "weight": 5.9,
+            "description": "Combatte usando lo scalchop sullo stomaco. In risposta a un attacco, contrattacca immediatamente con uno sfregio.",
+            "img": "https://serebii.net/pokemon/art/501.png"
+        },
+        {
+            "num": 502,
+            "name": "Dewott",
+            "types": [
+                "Acqua"
+            ],
+            "height": 0.8,
+            "weight": 24.5,
+            "description": "Le tecniche dello scalchop differiscono da un Dewott all'altro. Non trascura mai la manutenzione dei suoi scalchops.",
+            "img": "https://serebii.net/pokemon/art/502.png"
+        },
+        {
+            "num": 503,
+            "name": "Samurott",
+            "types": [
+                "Acqua"
+            ],
+            "height": 1.5,
+            "weight": 94.6,
+            "description": "Un colpo di spada incorporata nella sua armatura può abbattere un avversario. Uno sguardo fermo da parte sua zittisce tutti.",
+            "img": "https://serebii.net/pokemon/art/503.png"
+        },
+        {
+            "num": 504,
+            "name": "Patrat",
+            "types": [
+                "Normale"
+            ],
+            "height": 0.5,
+            "weight": 11.6,
+            "description": "Usando il cibo conservato nelle guance, possono fare la guardia per giorni. Usano le loro code per comunicare con gli altri.",
+            "img": "https://serebii.net/pokemon/art/504.png"
+        },
+        {
+            "num": 505,
+            "name": "Watchog",
+            "types": [
+                "Normale"
+            ],
+            "height": 1.1,
+            "weight": 27,
+            "description": "La sua casa è nelle aree erbose. Protegge il naso con la coda mentre aiuta nella raccolta del cibo.",
+            "img": "https://serebii.net/pokemon/art/505.png"
+        },
+        {
+            "num": 506,
+            "name": "Lillipup",
+            "types": [
+                "Normale"
+            ],
+            "height": 0.4,
+            "weight": 4.1,
+            "description": "Questo Pokémon è molto popolare come cane da pastore nella regione di Unova. Correndo, genera elettricità dalla base della sua coda.",
+            "img": "https://serebii.net/pokemon/art/506.png"
+        },
+        {
+            "num": 507,
+            "name": "Herdier",
+            "types": [
+                "Normale"
+            ],
+            "height": 0.9,
+            "weight": 14.7,
+            "description": "Più cresce la sua pelliccia nera, più diventa dura e impenetrabile. Artigli e zanne non possono penetrare facilmente.",
+            "img": "https://serebii.net/pokemon/art/507.png"
+        },
+        {
+            "num": 508,
+            "name": "Stoutland",
+            "types": [
+                "Normale"
+            ],
+            "height": 1.2,
+            "weight": 61,
+            "description": "La sua pelliccia è lunga e spessa. In tempi antichi nelle regioni fredde, ogni casa aveva un Stoutland.",
+            "img": "https://serebii.net/pokemon/art/508.png"
+        },
+        {
+            "num": 509,
+            "name": "Purrloin",
+            "types": [
+                "Buio"
+            ],
+            "height": 0.4,
+            "weight": 10.1,
+            "description": "Rubano alle persone per divertimento, ma le vittime non possono fare a meno di perdonarli. Il loro atto ingannevolmente carino è perfetto.",
+            "img": "https://serebii.net/pokemon/art/509.png"
+        },
+        {
+            "num": 510,
+            "name": "Liepard",
+            "types": [
+                "Buio"
+            ],
+            "height": 1.1,
+            "weight": 37.5,
+            "description": "Silenziosamente, si avvicina al suo bersaglio, colpendo alle spalle prima che la vittima abbia la possibilità di reagire.",
+            "img": "https://serebii.net/pokemon/art/510.png"
+        },
+        {
+            "num": 511,
+            "name": "Pansage",
+            "types": [
+                "Erba"
+            ],
+            "height": 0.6,
+            "weight": 10.5,
+            "description": "Condivide la foglia sulla testa con Pokémon dall'aspetto stanco. Queste foglie sono conosciute per alleviare lo stress.",
+            "img": "https://serebii.net/pokemon/art/511.png"
+        },
+        {
+            "num": 512,
+            "name": "Simisage",
+            "types": [
+                "Erba"
+            ],
+            "height": 1.1,
+            "weight": 30.5,
+            "description": "Attacca i nemici con colpi della sua coda coperta di spine. Questo Pokémon ha un temperamento selvaggio.",
+            "img": "https://serebii.net/pokemon/art/512.png"
+        },
+        {
+            "num": 513,
+            "name": "Pansear",
+            "types": [
+                "Fuoco"
+            ],
+            "height": 0.6,
+            "weight": 11,
+            "description": "Adora aiutare con compiti difficili. Ama le cose dolci, quindi è sempre alla ricerca di spuntini.",
+            "img": "https://serebii.net/pokemon/art/513.png"
+        },
+        {
+            "num": 514,
+            "name": "Simisear",
+            "types": [
+                "Fuoco"
+            ],
+            "height": 1,
+            "weight": 28,
+            "description": "Quando si eccita, braci si alzano dalla testa e dalla coda, e si riscalda. Per qualche motivo, ama i dolci.",
+            "img": "https://serebii.net/pokemon/art/514.png"
+        },
+        {
+            "num": 515,
+            "name": "Panpour",
+            "types": [
+                "Acqua"
+            ],
+            "height": 0.6,
+            "weight": 13.5,
+            "description": "L'acqua immagazzinata nella ciocca sulla sua testa è piena di nutrienti. Le piante che ricevono la sua acqua crescono grandi.",
+            "img": "https://serebii.net/pokemon/art/515.png"
+        },
+        {
+            "num": 516,
+            "name": "Simipour",
+            "types": [
+                "Acqua"
+            ],
+            "height": 1,
+            "weight": 29,
+            "description": "L'acqua ad alta pressione emessa dalla sua coda è così potente che può distruggere un muro di cemento.",
+            "img": "https://serebii.net/pokemon/art/516.png"
+        },
+        {
+            "num": 517,
+            "name": "Munna",
+            "types": [
+                "Psico"
+            ],
+            "height": 0.6,
+            "weight": 23.3,
+            "description": "Mangia i sogni delle persone e dei Pokémon. Quando mangia un sogno piacevole, emette nebbia di colore rosa.",
+            "img": "https://serebii.net/pokemon/art/517.png"
+        },
+        {
+            "num": 518,
+            "name": "Musharna",
+            "types": [
+                "Psico"
+            ],
+            "height": 1.1,
+            "weight": 60.5,
+            "description": "La nebbia che emana dalle loro fronti è piena dei sogni delle persone e dei Pokémon.",
+            "img": "https://serebii.net/pokemon/art/518.png"
+        },
+        {
+            "num": 519,
+            "name": "Pidove",
+            "types": [
+                "Normale",
+                "Volante"
+            ],
+            "height": 0.3,
+            "weight": 2.1,
+            "description": "È dimentico e non molto brillante, ma molti Allenatori lo amano comunque per la sua cordialità e sincerità.",
+            "img": "https://serebii.net/pokemon/art/519.png"
+        },
+        {
+            "num": 520,
+            "name": "Tranquill",
+            "types": [
+                "Normale",
+                "Volante"
+            ],
+            "height": 0.6,
+            "weight": 15,
+            "description": "Non importa dove vada nel mondo, sa dove si trova il suo nido, quindi non si separa mai dal suo Allenatore.",
+            "img": "https://serebii.net/pokemon/art/520.png"
+        },
+        {
+            "num": 521,
+            "name": "Unfezant",
+            "types": [
+                "Normale",
+                "Volante"
+            ],
+            "height": 1.2,
+            "weight": 29,
+            "description": "Il maschio con il piumaggio più grande ha le piume più belle. È una scelta ideale per una moglie.",
+            "img": "https://serebii.net/pokemon/art/521.png"
+        },
+        {
+            "num": 522,
+            "name": "Blitzle",
+            "types": [
+                "Elettro"
+            ],
+            "height": 0.8,
+            "weight": 29.8,
+            "description": "Quando il cielo è coperto da nuvole temporalesche, apparirà. Può catturare i fulmini con la sua criniera e immagazzinare l'elettricità.",
+            "img": "https://serebii.net/pokemon/art/522.png"
+        },
+        {
+            "num": 523,
+            "name": "Zebstrika",
+            "types": [
+                "Elettro"
+            ],
+            "height": 1.6,
+            "weight": 79.5,
+            "description": "Questo Pokémon di malumore è pericoloso perché quando è arrabbiato, spara fulmini dalla sua criniera in tutte le direzioni.",
+            "img": "https://serebii.net/pokemon/art/523.png"
+        },
+        {
+            "num": 524,
+            "name": "Roggenrola",
+            "types": [
+                "Roccia"
+            ],
+            "height": 0.4,
+            "weight": 18,
+            "description": "La sua orecchia è di forma esagonale. Compresso sotto terra, il suo corpo è duro come l'acciaio.",
+            "img": "https://serebii.net/pokemon/art/524.png"
+        },
+        {
+            "num": 525,
+            "name": "Boldore",
+            "types": [
+                "Roccia"
+            ],
+            "height": 0.9,
+            "weight": 102,
+            "description": "Quando trabocca di potere, il cristallo arancione sul suo corpo si illumina. Cerca acqua sotterranea nelle grotte.",
+            "img": "https://serebii.net/pokemon/art/525.png"
+        },
+        {
+            "num": 526,
+            "name": "Gigalith",
+            "types": [
+                "Roccia"
+            ],
+            "height": 1.7,
+            "weight": 260,
+            "description": "Comprimere l'energia dal suo nucleo interno gli consente di lanciare un attacco capace di abbattere una montagna.",
+            "img": "https://serebii.net/pokemon/art/526.png"
+        },
+        {
+            "num": 527,
+            "name": "Woobat",
+            "types": [
+                "Psico",
+                "Volante"
+            ],
+            "height": 0.4,
+            "weight": 2.1,
+            "description": "Il suo habitat sono foreste oscure e caverne. Emette onde ultrasoniche dal suo naso per apprendere del suo ambiente.",
+            "img": "https://serebii.net/pokemon/art/527.png"
+        },
+        {
+            "num": 528,
+            "name": "Swoobat",
+            "types": [
+                "Psico",
+                "Volante"
+            ],
+            "height": 0.9,
+            "weight": 10.5,
+            "description": "Chiunque entri in contatto con le onde ultrasoniche emesse da un maschio corteggiante sperimenta un cambiamento d'umore positivo.",
+            "img": "https://serebii.net/pokemon/art/528.png"
+        },
+        {
+            "num": 529,
+            "name": "Drilbur",
+            "types": [
+                "Terra"
+            ],
+            "height": 0.3,
+            "weight": 8.5,
+            "description": "Può scavare nel terreno a una velocità di 30 miglia all'ora. Potrebbe competere bene con una macchina che corre in superficie.",
+            "img": "https://serebii.net/pokemon/art/529.png"
+        },
+        {
+            "num": 530,
+            "name": "Excadrill",
+            "types": [
+                "Terra",
+                "Acciaio"
+            ],
+            "height": 0.7,
+            "weight": 40.4,
+            "description": "A più di 300 piedi sotto la superficie, costruisce nidi labirintici. È anche noto per causare terremoti.",
+            "img": "https://serebii.net/pokemon/art/530.png"
+        },
+        {
+            "num": 531,
+            "name": "Audino",
+            "types": [
+                "Normale"
+            ],
+            "height": 1.1,
+            "weight": 31,
+            "description": "Usando gli antenna sulle sue orecchie, può capire come si sente qualcuno o quando un uovo potrebbe schiudersi.",
+            "img": "https://serebii.net/pokemon/art/531.png"
+        },
+        {
+            "num": 532,
+            "name": "Timburr",
+            "types": [
+                "Lotta"
+            ],
+            "height": 0.6,
+            "weight": 12.5,
+            "description": "Porta un tronco ben fatto, che usa per schiacciare i suoi avversari. Nelle case degli umani, viene usato per aiutare nella costruzione.",
+            "img": "https://serebii.net/pokemon/art/532.png"
+        },
+        {
+            "num": 533,
+            "name": "Gurdurr",
+            "types": [
+                "Lotta"
+            ],
+            "height": 1.2,
+            "weight": 40,
+            "description": "Nei cantieri, questo Pokémon porta un'enorme trave. È uno dei Pokémon che trainano i Poke Mart.",
+            "img": "https://serebii.net/pokemon/art/533.png"
+        },
+        {
+            "num": 534,
+            "name": "Conkeldurr",
+            "types": [
+                "Lotta"
+            ],
+            "height": 1.4,
+            "weight": 87,
+            "description": "Può apparire ovunque ci sia costruzione. Maneggia abilmente una massiccia colonna di cemento.",
+            "img": "https://serebii.net/pokemon/art/534.png"
+        },
+        {
+            "num": 535,
+            "name": "Tympole",
+            "types": [
+                "Acqua"
+            ],
+            "height": 0.5,
+            "weight": 4.5,
+            "description": "Avvertono gli altri del pericolo vibrando le guance per creare un suono acuto.",
+            "img": "https://serebii.net/pokemon/art/535.png"
+        },
+        {
+            "num": 536,
+            "name": "Palpitoad",
+            "types": [
+                "Acqua",
+                "Terra"
+            ],
+            "height": 0.8,
+            "weight": 17,
+            "description": "Debilita la sua preda con onde sonore abbastanza intense da causare mal di testa, poi li avvolge con la sua lingua appiccicosa.",
+            "img": "https://serebii.net/pokemon/art/536.png"
+        },
+        {
+            "num": 537,
+            "name": "Seismitoad",
+            "types": [
+                "Acqua",
+                "Terra"
+            ],
+            "height": 1.5,
+            "weight": 62,
+            "description": "Aumenta la potenza dei suoi pugni vibrando i nodi sui suoi pugni. Può ridurre un masso a macerie con un solo pugno.",
+            "img": "https://serebii.net/pokemon/art/537.png"
+        },
+        {
+            "num": 538,
+            "name": "Throh",
+            "types": [
+                "Lotta"
+            ],
+            "height": 1.3,
+            "weight": 55.5,
+            "description": "Quando si allaccia la cintura, diventa più forte. I Throh selvatici usano le viti per intrecciare le loro cinture.",
+            "img": "https://serebii.net/pokemon/art/538.png"
+        },
+        {
+            "num": 539,
+            "name": "Sawk",
+            "types": [
+                "Lotta"
+            ],
+            "height": 1.4,
+            "weight": 51,
+            "description": "Legare le cinture li pompa e rende i loro pugni più distruttivi. Disturbare il loro allenamento li fa arrabbiare.",
+            "img": "https://serebii.net/pokemon/art/539.png"
+        },
+        {
+            "num": 540,
+            "name": "Sewaddle",
+            "types": [
+                "Coleott.",
+                "Erba"
+            ],
+            "height": 0.3,
+            "weight": 2.5,
+            "description": "Le larve di questa specie sono conosciute per avvolgere foglie intorno ai loro corpi per protezione.",
+            "img": "https://serebii.net/pokemon/art/540.png"
+        },
+        {
+            "num": 541,
+            "name": "Swadloon",
+            "types": [
+                "Coleott.",
+                "Erba"
+            ],
+            "height": 0.5,
+            "weight": 7.3,
+            "description": "Molto, molto tempo fa, viveva nelle profondità del mare. Poi gli esseri umani l'hanno trasformato in energia.",
+            "img": "https://serebii.net/pokemon/art/541.png"
+        },
+        {
+            "num": 542,
+            "name": "Leavanny",
+            "types": [
+                "Coleott.",
+                "Erba"
+            ],
+            "height": 1.2,
+            "weight": 20.5,
+            "description": "Trova un piccolo Pokémon e gli intreccia un vestito fatto di foglie, usando i tagli sulle sue braccia e la seta appiccicosa.",
+            "img": "https://serebii.net/pokemon/art/542.png"
+        },
+        {
+            "num": 543,
+            "name": "Venipede",
+            "types": [
+                "Coleott.",
+                "Veleno"
+            ],
+            "height": 0.4,
+            "weight": 5.3,
+            "description": "Scopre cosa sta succedendo intorno a lui usando gli aculei sulla testa e sulla coda. È brutalmente aggressivo.",
+            "img": "https://serebii.net/pokemon/art/543.png"
+        },
+        {
+            "num": 544,
+            "name": "Whirlipede",
+            "types": [
+                "Coleott.",
+                "Veleno"
+            ],
+            "height": 1.2,
+            "weight": 58.5,
+            "description": "Protetto da un guscio duro, gira il corpo come una ruota e si schianta furiosamente sui nemici.",
+            "img": "https://serebii.net/pokemon/art/544.png"
+        },
+        {
+            "num": 545,
+            "name": "Scolipede",
+            "types": [
+                "Coleott.",
+                "Veleno"
+            ],
+            "height": 2.5,
+            "weight": 200.5,
+            "description": "Con movimenti veloci, insegue i suoi nemici, attaccando implacabilmente con le sue corna fino a prevalere.",
+            "img": "https://serebii.net/pokemon/art/545.png"
+        },
+        {
+            "num": 546,
+            "name": "Cottonee",
+            "types": [
+                "Erba",
+                "Fairy"
+            ],
+            "height": 0.3,
+            "weight": 0.6,
+            "description": "Quando attaccato, si difende chiudendo il coperchio del suo guscio. Può sputare un liquido appiccicoso e velenoso.",
+            "img": "https://serebii.net/pokemon/art/546.png"
+        },
+        {
+            "num": 547,
+            "name": "Whimsicott",
+            "types": [
+                "Erba",
+                "Fairy"
+            ],
+            "height": 0.7,
+            "weight": 6.6,
+            "description": "Il vento dal suo cotone può stordire gli avversari. Il suo polline diventa anche appiccicoso per un po', quindi raccoglie molto polline.",
+            "img": "https://serebii.net/pokemon/art/547.png"
+        },
+        {
+            "num": 548,
+            "name": "Petilil",
+            "types": [
+                "Erba"
+            ],
+            "height": 0.5,
+            "weight": 6.6,
+            "description": "Vive in zone con aria e acqua pulite. I suoi lunghi capelli brillano come i raggi del sole.",
+            "img": "https://serebii.net/pokemon/art/548.png"
+        },
+        {
+            "num": 549,
+            "name": "Lilligant",
+            "types": [
+                "Erba"
+            ],
+            "height": 1.1,
+            "weight": 16.3,
+            "description": "Quando ha l'occasione, sotterra la sua bocca appiccicosa e a ventosa nella preda e le succhia i fluidi corporei.",
+            "img": "https://serebii.net/pokemon/art/549.png"
+        },
+        {
+            "num": 550,
+            "name": "Basculin",
+            "types": [
+                "Acqua"
+            ],
+            "height": 1,
+            "weight": 18,
+            "description": "Basculin rosso e blu vanno d'accordo così male che inizieranno a combattere istantaneamente. Questi Pokémon sono molto ostili.",
+            "img": "https://serebii.net/pokemon/art/550.png"
+        },
+        {
+            "num": 551,
+            "name": "Sandile",
+            "types": [
+                "Terra",
+                "Buio"
+            ],
+            "height": 0.7,
+            "weight": 15.2,
+            "description": "Quando vedono un nemico, i loro peli si drizzano e le loro code puntano dritte in su mentre si preparano a affrontare il loro avversario.",
+            "img": "https://serebii.net/pokemon/art/551.png"
+        },
+        {
+            "num": 552,
+            "name": "Krokorok",
+            "types": [
+                "Terra",
+                "Buio"
+            ],
+            "height": 1,
+            "weight": 33.4,
+            "description": "È una vista comune nei deserti. La sua tasca di sabbia è cresciuta molto, grazie alla continua raccolta di sabbia.",
+            "img": "https://serebii.net/pokemon/art/552.png"
+        },
+        {
+            "num": 553,
+            "name": "Krookodile",
+            "types": [
+                "Terra",
+                "Buio"
+            ],
+            "height": 1.5,
+            "weight": 96.3,
+            "description": "Non permettono mai alla preda di sfuggire. Le loro mascelle sono così potenti che possono schiacciare il corpo di un'automobile.",
+            "img": "https://serebii.net/pokemon/art/553.png"
+        },
+        {
+            "num": 554,
+            "name": "Darumaka",
+            "types": [
+                "Fuoco"
+            ],
+            "height": 0.6,
+            "weight": 37.5,
+            "description": "Quando dorme, ritira gli arti nel suo corpo e il suo fuoco interno scende a 1100 gradi Fahrenheit.",
+            "img": "https://serebii.net/pokemon/art/554.png"
+        },
+        {
+            "num": 555,
+            "name": "Darmanitan",
+            "types": [
+                "Fuoco"
+            ],
+            "height": 1.3,
+            "weight": 92.9,
+            "description": "Il suo fuoco interno brucia a 2500 gradi Fahrenheit, producendo abbastanza potenza da poter distruggere un camion con un solo pugno.",
+            "img": "https://serebii.net/pokemon/art/555.png"
+        },
+        {
+            "num": 556,
+            "name": "Maractus",
+            "types": [
+                "Erba"
+            ],
+            "height": 1,
+            "weight": 28,
+            "description": "Quando si muove ritmicamente, emette un suono simile a maracas, che è noto per far nervosi gli avversari.",
+            "img": "https://serebii.net/pokemon/art/556.png"
+        },
+        {
+            "num": 557,
+            "name": "Dwebble",
+            "types": [
+                "Coleott.",
+                "Roccia"
+            ],
+            "height": 0.3,
+            "weight": 14.5,
+            "description": "Quando trova una pietra di dimensioni adatte, secerne un liquido dalla sua bocca per aprire un buco in cui strisciare.",
+            "img": "https://serebii.net/pokemon/art/557.png"
+        },
+        {
+            "num": 558,
+            "name": "Crustle",
+            "types": [
+                "Coleott.",
+                "Roccia"
+            ],
+            "height": 1.4,
+            "weight": 200,
+            "description": "Ha gambe di enorme forza, che gli consentono di trasportare lastre pesanti per molti giorni, anche attraversando terre aride.",
+            "img": "https://serebii.net/pokemon/art/558.png"
+        },
+        {
+            "num": 559,
+            "name": "Scraggy",
+            "types": [
+                "Buio",
+                "Lotta"
+            ],
+            "height": 0.6,
+            "weight": 11.8,
+            "description": "La sua pelle ha un'elasticità gommosa, quindi può ridurre i danni tirando difensivamente la pelle fino al collo.",
+            "img": "https://serebii.net/pokemon/art/559.png"
+        },
+        {
+            "num": 560,
+            "name": "Scrafty",
+            "types": [
+                "Buio",
+                "Lotta"
+            ],
+            "height": 1.1,
+            "weight": 30,
+            "description": "Gruppi di loro picchiano chiunque entri nel loro territorio. Ognuno può sputare liquido acido dalla sua bocca.",
+            "img": "https://serebii.net/pokemon/art/560.png"
+        },
+        {
+            "num": 561,
+            "name": "Sigilyph",
+            "types": [
+                "Psico",
+                "Volante"
+            ],
+            "height": 1.4,
+            "weight": 14,
+            "description": "I guardiani di una città antica, usano il loro potere psichico per attaccare nemici che invadono il loro territorio.",
+            "img": "https://serebii.net/pokemon/art/561.png"
+        },
+        {
+            "num": 562,
+            "name": "Yamask",
+            "types": [
+                "Spettro"
+            ],
+            "height": 0.5,
+            "weight": 1.5,
+            "description": "Questi Pokémon sono nati dagli spiriti di persone sepolte in tombe in epoche passate. Ognuno conserva i ricordi della sua vita passata.",
+            "img": "https://serebii.net/pokemon/art/562.png"
+        },
+        {
+            "num": 563,
+            "name": "Cofagrigus",
+            "types": [
+                "Spettro"
+            ],
+            "height": 1.7,
+            "weight": 76.5,
+            "description": "Si dice che inghiottiscano coloro che si avvicinano troppo e li trasformino in mummie. Amano mangiare pepite d'oro.",
+            "img": "https://serebii.net/pokemon/art/563.png"
+        },
+        {
+            "num": 564,
+            "name": "Tirtouga",
+            "types": [
+                "Acqua",
+                "Roccia"
+            ],
+            "height": 0.7,
+            "weight": 16.5,
+            "description": "Circa 100 milioni di anni fa, questi Pokémon nuotavano negli oceani. Si pensa che siano anche andati sulla terraferma per attaccare la preda.",
+            "img": "https://serebii.net/pokemon/art/564.png"
+        },
+        {
+            "num": 565,
+            "name": "Carracosta",
+            "types": [
+                "Acqua",
+                "Roccia"
+            ],
+            "height": 1.2,
+            "weight": 81,
+            "description": "Poteva abbattere un nemico con uno schiaffo da una delle sue sviluppate appendici anteriori e masticarlo, guscio o ossa e tutto.",
+            "img": "https://serebii.net/pokemon/art/565.png"
+        },
+        {
+            "num": 566,
+            "name": "Archen",
+            "types": [
+                "Roccia",
+                "Volante"
+            ],
+            "height": 0.5,
+            "weight": 9.5,
+            "description": "Le ossa delle sue ali sono considerate i resti dei suoi antenati che non potevano volare. Corre velocemente come qualsiasi altro Pokémon volante.",
+            "img": "https://serebii.net/pokemon/art/566.png"
+        },
+        {
+            "num": 567,
+            "name": "Archeops",
+            "types": [
+                "Roccia",
+                "Volante"
+            ],
+            "height": 1.4,
+            "weight": 32,
+            "description": "Sono intelligenti e coopereranno per catturare la preda. Da terra, usano una corsa per prendere il volo.",
+            "img": "https://serebii.net/pokemon/art/567.png"
+        },
+        {
+            "num": 568,
+            "name": "Trubbish",
+            "types": [
+                "Veleno"
+            ],
+            "height": 0.6,
+            "weight": 31,
+            "description": "I luoghi preferiti di Trubbish sono quelli insalubri. Se lasci spazzatura in giro, potresti persino trovarne uno di questi Pokémon nella tua stanza.",
+            "img": "https://serebii.net/pokemon/art/568.png"
+        },
+        {
+            "num": 569,
+            "name": "Garbodor",
+            "types": [
+                "Veleno"
+            ],
+            "height": 1.9,
+            "weight": 107.3,
+            "description": "Assorbono la spazzatura e la fanno parte del loro corpo. Sparano un liquido velenoso dalle dita della mano destra.",
+            "img": "https://serebii.net/pokemon/art/569.png"
+        },
+        {
+            "num": 570,
+            "name": "Zorua",
+            "types": [
+                "Buio"
+            ],
+            "height": 0.7,
+            "weight": 12.5,
+            "description": "Si trasforma nelle forme degli altri per sorprenderli. Apparentemente, si trasforma spesso in un bambino silenzioso.",
+            "img": "https://serebii.net/pokemon/art/570.png"
+        },
+        {
+            "num": 571,
+            "name": "Zoroark",
+            "types": [
+                "Buio"
+            ],
+            "height": 1.6,
+            "weight": 81.1,
+            "description": "Protegge la sicurezza del suo branco ingannando i suoi avversari.",
+            "img": "https://serebii.net/pokemon/art/571.png"
+        },
+        {
+            "num": 572,
+            "name": "Minccino",
+            "types": [
+                "Normale"
+            ],
+            "height": 0.4,
+            "weight": 5.8,
+            "description": "Si salutano sfregandosi le code, che tengono sempre ben curate e pulite.",
+            "img": "https://serebii.net/pokemon/art/572.png"
+        },
+        {
+            "num": 573,
+            "name": "Cinccino",
+            "types": [
+                "Normale"
+            ],
+            "height": 0.5,
+            "weight": 7.5,
+            "description": "La loro pelliccia bianca è incredibile al tatto. La loro pelliccia respinge la polvere e impedisce l'accumulo di elettricità statica.",
+            "img": "https://serebii.net/pokemon/art/573.png"
+        },
+        {
+            "num": 574,
+            "name": "Gothita",
+            "types": [
+                "Psico"
+            ],
+            "height": 0.4,
+            "weight": 5.8,
+            "description": "Osservano attentamente sia gli Allenatori che i Pokémon. Apparentemente, stanno guardando qualcosa che solo loro possono vedere.",
+            "img": "https://serebii.net/pokemon/art/574.png"
+        },
+        {
+            "num": 575,
+            "name": "Gothorita",
+            "types": [
+                "Psico"
+            ],
+            "height": 0.7,
+            "weight": 18,
+            "description": "Usano l'ipnosi per controllare persone e Pokémon. Racconti di Gothorita che inducono le persone in errore sono raccontati in ogni angolo.",
+            "img": "https://serebii.net/pokemon/art/575.png"
+        },
+        {
+            "num": 576,
+            "name": "Gothitelle",
+            "types": [
+                "Psico"
+            ],
+            "height": 1.5,
+            "weight": 44,
+            "description": "Cielo stellato a migliaia di anni luce di distanza è visibile nello spazio distorto dalla loro intensa potenza psichica.",
+            "img": "https://serebii.net/pokemon/art/576.png"
+        },
+        {
+            "num": 577,
+            "name": "Solosis",
+            "types": [
+                "Psico"
+            ],
+            "height": 0.3,
+            "weight": 1,
+            "description": "Allontanano gli attaccanti liberando il potere psichico. Possono usare la telepatia per parlare con gli altri.",
+            "img": "https://serebii.net/pokemon/art/577.png"
+        },
+        {
+            "num": 578,
+            "name": "Duosion",
+            "types": [
+                "Psico"
+            ],
+            "height": 0.6,
+            "weight": 8,
+            "description": "Quando i loro cervelli, ora divisi in due, stanno pensando alla stessa cosa, questi Pokémon esibiscono la loro massima potenza psichica.",
+            "img": "https://serebii.net/pokemon/art/578.png"
+        },
+        {
+            "num": 579,
+            "name": "Reuniclus",
+            "types": [
+                "Psico"
+            ],
+            "height": 1,
+            "weight": 20.1,
+            "description": "Il fluido verde secreto dal suo corpo contiene enzimi speciali che fanno combustione spontanea ai Pokémon che sbatte.",
+            "img": "https://serebii.net/pokemon/art/579.png"
+        },
+        {
+            "num": 580,
+            "name": "Ducklett",
+            "types": [
+                "Acqua",
+                "Volante"
+            ],
+            "height": 0.5,
+            "weight": 5.5,
+            "description": "Questi Pokémon sono eccellenti tuffatori. Nuotano in graziosi stormi, causando alle piume sparse di assomigliare a un mazzo di fiori.",
+            "img": "https://serebii.net/pokemon/art/580.png"
+        },
+        {
+            "num": 581,
+            "name": "Swanna",
+            "types": [
+                "Acqua",
+                "Volante"
+            ],
+            "height": 1.3,
+            "weight": 24.2,
+            "description": "Swanna inizia a ballare al crepuscolo. Quello che balla al centro è il capo del branco.",
+            "img": "https://serebii.net/pokemon/art/581.png"
+        },
+        {
+            "num": 582,
+            "name": "Vanillite",
+            "types": [
+                "Ghiaccio"
+            ],
+            "height": 0.4,
+            "weight": 5.7,
+            "description": "Quando la temperatura è aumentata alla fine dell'era glaciale, la maggior parte di Vanillite si è spostata in aree più",
+            "img": "https://serebii.net/pokemon/art/582.png"
+        },
+        {
+            "num": 583,
+            "name": "Vanillish",
+            "types": [
+                "Ghiaccio"
+            ],
+            "height": 1.1,
+            "weight": 41,
+            "description": "Montagne innevate sono l'habitat di questo Pokémon. Durante un antico periodo glaciale, si sono spostati verso aree meridionali.",
+            "img": "https://serebii.net/pokemon/art/583.png"
+        },
+        {
+            "num": 584,
+            "name": "Vanilluxe",
+            "types": [
+                "Ghiaccio"
+            ],
+            "height": 1.3,
+            "weight": 57.5,
+            "description": "Questo Pokémon esiste dall'Età del Ghiaccio. Controlla particelle di ghiaccio, congela i suoi avversari e crea cristalli di ghiaccio per proteggersi.",
+            "img": "https://serebii.net/pokemon/art/584.png"
+        },
+        {
+            "num": 585,
+            "name": "Deerling",
+            "types": [
+                "Normale",
+                "Erba"
+            ],
+            "height": 0.6,
+            "weight": 19.5,
+            "description": "Il cambio delle stagioni cambia il colore e il profumo del pelo di questo Pokémon. Le persone lo usano per segnare le stagioni.",
+            "img": "https://serebii.net/pokemon/art/585.png"
+        },
+        {
+            "num": 586,
+            "name": "Sawsbuck",
+            "types": [
+                "Normale",
+                "Erba"
+            ],
+            "height": 1.9,
+            "weight": 92.5,
+            "description": "Migrano in base alle stagioni, quindi alcune persone chiamano Sawsbuck gli araldi della primavera.",
+            "img": "https://serebii.net/pokemon/art/586.png"
+        },
+        {
+            "num": 587,
+            "name": "Emolga",
+            "types": [
+                "Elettro",
+                "Volante"
+            ],
+            "height": 0.4,
+            "weight": 5,
+            "description": "Accumulano elettricità nelle guance, quindi sentirai una scossa formicolante se li tocchi.",
+            "img": "https://serebii.net/pokemon/art/587.png"
+        },
+        {
+            "num": 588,
+            "name": "Karrablast",
+            "types": [
+                "Coleott."
+            ],
+            "height": 0.5,
+            "weight": 5.9,
+            "description": "Evolvono quando vengono bagnati da un'energia simile all'elettricità insieme a Shelmet. Karrablast cercherà avversari con cui litigare.",
+            "img": "https://serebii.net/pokemon/art/588.png"
+        },
+        {
+            "num": 589,
+            "name": "Escavalier",
+            "types": [
+                "Coleott.",
+                "Acciaio"
+            ],
+            "height": 1,
+            "weight": 33,
+            "description": "Volano a grande velocità, colpendo con le loro lance appuntite. Anche quando sono in difficoltà, affrontano coraggiosamente gli avversari.",
+            "img": "https://serebii.net/pokemon/art/589.png"
+        },
+        {
+            "num": 590,
+            "name": "Foongus",
+            "types": [
+                "Erba",
+                "Veleno"
+            ],
+            "height": 0.2,
+            "weight": 1,
+            "description": "Attrae i Pokémon con il suo motivo che assomiglia a una Poké Ball, poi rilascia spore velenose.",
+            "img": "https://serebii.net/pokemon/art/590.png"
+        },
+        {
+            "num": 591,
+            "name": "Amoonguss",
+            "types": [
+                "Erba",
+                "Veleno"
+            ],
+            "height": 0.6,
+            "weight": 10.5,
+            "description": "Muove i cappucci su entrambe le braccia e fa una danza per attirare le prede. Preferisce luoghi umidi.",
+            "img": "https://serebii.net/pokemon/art/591.png"
+        },
+        {
+            "num": 592,
+            "name": "Frillish",
+            "types": [
+                "Acqua",
+                "Spettro"
+            ],
+            "height": 1.2,
+            "weight": 33,
+            "description": "Nascosto nei bassi fondali, aspetta pazientemente che la preda si avvicini. Quando succede, Frillish e i suoi tentacoli la afferrano e la avvelenano.",
+            "img": "https://serebii.net/pokemon/art/592.png"
+        },
+        {
+            "num": 593,
+            "name": "Jellicent",
+            "types": [
+                "Acqua",
+                "Spettro"
+            ],
+            "height": 2.2,
+            "weight": 135,
+            "description": "In tempi antichi, i governatori dei castelli invitavano Jellicent a creare barriere contro gli invasori.",
+            "img": "https://serebii.net/pokemon/art/593.png"
+        },
+        {
+            "num": 594,
+            "name": "Alomomola",
+            "types": [
+                "Acqua"
+            ],
+            "height": 1.2,
+            "weight": 31.6,
+            "description": "La membrana speciale che avvolge il corpo di Alomomola gli permette di curare le ferite rilasciando una membrana curativa.",
+            "img": "https://serebii.net/pokemon/art/594.png"
+        },
+        {
+            "num": 595,
+            "name": "Joltik",
+            "types": [
+                "Coleott.",
+                "Elettro"
+            ],
+            "height": 0.1,
+            "weight": 0.6,
+            "description": "Si attaccano a Pokémon di grandi dimensioni e assorbono l'elettricità statica, che conservano in una tasca elettrica.",
+            "img": "https://serebii.net/pokemon/art/595.png"
+        },
+        {
+            "num": 596,
+            "name": "Galvantula",
+            "types": [
+                "Coleott.",
+                "Elettro"
+            ],
+            "height": 0.8,
+            "weight": 14.3,
+            "description": "Quando attaccati, creano una barriera elettrica sputando un filo appiccicoso e scaricando corrente ad alta tensione.",
+            "img": "https://serebii.net/pokemon/art/596.png"
+        },
+        {
+            "num": 597,
+            "name": "Ferroseed",
+            "types": [
+                "Erba",
+                "Acciaio"
+            ],
+            "height": 0.6,
+            "weight": 18.8,
+            "description": "Infilano le loro spine nelle pareti delle caverne e assorbono i minerali che trovano nella roccia.",
+            "img": "https://serebii.net/pokemon/art/597.png"
+        },
+        {
+            "num": 598,
+            "name": "Ferrothorn",
+            "types": [
+                "Erba",
+                "Acciaio"
+            ],
+            "height": 1,
+            "weight": 110,
+            "description": "Si attaccano ai soffitti delle caverne, sparando spine di acciaio ai bersagli che passano sotto di loro.",
+            "img": "https://serebii.net/pokemon/art/598.png"
+        },
+        {
+            "num": 599,
+            "name": "Klink",
+            "types": [
+                "Acciaio"
+            ],
+            "height": 0.3,
+            "weight": 21,
+            "description": "I due ingranaggi che si incastrano sono predestinati. Ognuno rimbalzerà dagli altri ingranaggi senza incastrarsi.",
+            "img": "https://serebii.net/pokemon/art/599.png"
+        },
+        {
+            "num": 600,
+            "name": "Klang",
+            "types": [
+                "Acciaio"
+            ],
+            "height": 0.6,
+            "weight": 51,
+            "description": "Cambiando la direzione in cui ruota, comunica i suoi sentimenti agli altri. Quando è arrabbiato, ruota più velocemente.",
+            "img": "https://serebii.net/pokemon/art/600.png"
+        },
+        {
+            "num": 601,
+            "name": "Klinklang",
+            "types": [
+                "Acciaio"
+            ],
+            "height": 0.6,
+            "weight": 81,
+            "description": "L'ingranaggio con il nucleo rosso ruota a grande velocità per una rapida carica energetica.",
+            "img": "https://serebii.net/pokemon/art/601.png"
+        },
+        {
+            "num": 602,
+            "name": "Tynamo",
+            "types": [
+                "Elettro"
+            ],
+            "height": 0.2,
+            "weight": 0.3,
+            "description": "Anche se uno da solo non ha molta potenza, una catena di molti Tynamo può essere potente come un fulmine.",
+            "img": "https://serebii.net/pokemon/art/602.png"
+        },
+        {
+            "num": 603,
+            "name": "Eelektrik",
+            "types": [
+                "Elettro"
+            ],
+            "height": 1.2,
+            "weight": 22,
+            "description": "Si avvolge intorno alla preda e la paralizza con l'elettricità dalle macchie rotonde sui lati. Poi morde.",
+            "img": "https://serebii.net/pokemon/art/603.png"
+        },
+        {
+            "num": 604,
+            "name": "Eelektross",
+            "types": [
+                "Elettro"
+            ],
+            "height": 2.1,
+            "weight": 80.5,
+            "description": "Escono dall'oceano usando le braccia. Attaccano le prede sulla riva e le trascinano immediatamente in acqua.",
+            "img": "https://serebii.net/pokemon/art/604.png"
+        },
+        {
+            "num": 605,
+            "name": "Elgyem",
+            "types": [
+                "Psico"
+            ],
+            "height": 0.5,
+            "weight": 9,
+            "description": "Usa la sua forte potenza psichica per schiacciare il cervello dell'avversario, causando emicranie insopportabili.",
+            "img": "https://serebii.net/pokemon/art/605.png"
+        },
+        {
+            "num": 606,
+            "name": "Beheeyem",
+            "types": [
+                "Psico"
+            ],
+            "height": 1,
+            "weight": 34.5,
+            "description": "Può manipolare la memoria dell'avversario. Apparentemente, comunica lampeggiando i suoi tre diti di colori diversi.",
+            "img": "https://serebii.net/pokemon/art/606.png"
+        },
+        {
+            "num": 607,
+            "name": "Litwick",
+            "types": [
+                "Spettro",
+                "Fuoco"
+            ],
+            "height": 0.3,
+            "weight": 3.1,
+            "description": "Litwick emette una luce che assorbe l'energia vitale di persone e Pokémon, che diventa il combustibile che brucia.",
+            "img": "https://serebii.net/pokemon/art/607.png"
+        },
+        {
+            "num": 608,
+            "name": "Lampent",
+            "types": [
+                "Spettro",
+                "Fuoco"
+            ],
+            "height": 0.6,
+            "weight": 13,
+            "description": "Questo Pokémon inquietante è temuto. Vaga attraverso le città alla ricerca degli spiriti dei caduti.",
+            "img": "https://serebii.net/pokemon/art/608.png"
+        },
+        {
+            "num": 609,
+            "name": "Chandelure",
+            "types": [
+                "Spettro",
+                "Fuoco"
+            ],
+            "height": 1,
+            "weight": 34.3,
+            "description": "Essere consumati dalla fiamma di Chandelure brucia lo spirito, lasciando il corpo dietro.",
+            "img": "https://serebii.net/pokemon/art/609.png"
+        },
+        {
+            "num": 610,
+            "name": "Axew",
+            "types": [
+                "Drago"
+            ],
+            "height": 0.6,
+            "weight": 18,
+            "description": "Usano le zanne per schiacciare le bacche che mangiano. La rigenerazione ripetuta rende le zanne forti e affilate.",
+            "img": "https://serebii.net/pokemon/art/610.png"
+        },
+        {
+            "num": 611,
+            "name": "Fraxure",
+            "types": [
+                "Drago"
+            ],
+            "height": 1,
+            "weight": 36,
+            "description": "Poiché un dente rotto non crescerà di nuovo, affilano diligentemente le zanne su rocce fluviali dopo essere stati in lotta.",
+            "img": "https://serebii.net/pokemon/art/611.png"
+        },
+        {
+            "num": 612,
+            "name": "Haxorus",
+            "types": [
+                "Drago"
+            ],
+            "height": 1.8,
+            "weight": 105.5,
+            "description": "Le loro robuste zanne rimarranno affilate anche se usate per tagliare travi d'acciaio. Questi Pokémon sono coperti da una dura corazza.",
+            "img": "https://serebii.net/pokemon/art/612.png"
+        },
+        {
+            "num": 613,
+            "name": "Cubchoo",
+            "types": [
+                "Ghiaccio"
+            ],
+            "height": 0.5,
+            "weight": 8.5,
+            "description": "Il suo naso cola sempre. Aspira il muco perché il muco fornisce la materia prima per le sue mosse.",
+            "img": "https://serebii.net/pokemon/art/613.png"
+        },
+        {
+            "num": 614,
+            "name": "Beartic",
+            "types": [
+                "Ghiaccio"
+            ],
+            "height": 2.6,
+            "weight": 260,
+            "description": "Può far congelare il suo respiro a volontà. Quando minacciato, emette una nuvola di aria fredda.",
+            "img": "https://serebii.net/pokemon/art/614.png"
+        },
+        {
+            "num": 615,
+            "name": "Cryogonal",
+            "types": [
+                "Ghiaccio"
+            ],
+            "height": 1.1,
+            "weight": 148,
+            "description": "Nascono nelle nuvole di neve. Usano catene fatte di cristalli di ghiaccio per catturare le prede.",
+            "img": "https://serebii.net/pokemon/art/615.png"
+        },
+        {
+            "num": 616,
+            "name": "Shelmet",
+            "types": [
+                "Coleott."
+            ],
+            "height": 0.4,
+            "weight": 7.7,
+            "description": "Quando attaccato, si difende chiudendo il coperchio del suo guscio. Può sputare un liquido appiccicoso e velenoso.",
+            "img": "https://serebii.net/pokemon/art/616.png"
+        },
+        {
+            "num": 617,
+            "name": "Accelgor",
+            "types": [
+                "Coleott."
+            ],
+            "height": 0.8,
+            "weight": 25.3,
+            "description": "Avendo rimosso il suo pesante guscio, si muove leggermente e velocemente. Si fa strada attraverso caverne strette come se stesse volando.",
+            "img": "https://serebii.net/pokemon/art/617.png"
+        },
+        {
+            "num": 618,
+            "name": "Stunfisk",
+            "types": [
+                "Terra",
+                "Elettro"
+            ],
+            "height": 0.7,
+            "weight": 11,
+            "description": "Si sdraia perfettamente immobile nel fango. Aspetta che la preda lo tocchi. Quando succede, balza sulla preda e le infligge una scossa di elettricità.",
+            "img": "https://serebii.net/pokemon/art/618.png"
+        },
+        {
+            "num": 619,
+            "name": "Mienfoo",
+            "types": [
+                "Lotta"
+            ],
+            "height": 0.9,
+            "weight": 20,
+            "description": "Quando Mienshao ha affinato completamente i suoi poteri psichici, il suo pelo diventa ancora più setoso di prima.",
+            "img": "https://serebii.net/pokemon/art/619.png"
+        },
+        {
+            "num": 620,
+            "name": "Mienshao",
+            "types": [
+                "Lotta"
+            ],
+            "height": 1.4,
+            "weight": 35.5,
+            "description": "Si vanta della velocità con cui può usare le mosse. Quello che perde in potenza, lo recupera in quantità.",
+            "img": "https://serebii.net/pokemon/art/620.png"
+        },
+        {
+            "num": 621,
+            "name": "Druddigon",
+            "types": [
+                "Drago"
+            ],
+            "height": 1.6,
+            "weight": 139,
+            "description": "Scalda il suo corpo assorbendo la luce solare con le ali. Quando la sua temperatura corporea scende, non può più muoversi.",
+            "img": "https://serebii.net/pokemon/art/621.png"
+        },
+        {
+            "num": 622,
+            "name": "Golett",
+            "types": [
+                "Terra",
+                "Spettro"
+            ],
+            "height": 1,
+            "weight": 92,
+            "description": "L'energia che brucia dentro di lui gli permette di muoversi, ma nessuno è ancora riuscito a identificare questa energia.",
+            "img": "https://serebii.net/pokemon/art/622.png"
+        },
+        {
+            "num": 623,
+            "name": "Golurk",
+            "types": [
+                "Terra",
+                "Spettro"
+            ],
+            "height": 2.8,
+            "weight": 330,
+            "description": "Vola attraverso il cielo a velocità Mach. Rimuovere il sigillo sul suo petto fa uscire fuori controllo la sua energia interna.",
+            "img": "https://serebii.net/pokemon/art/623.png"
+        },
+        {
+            "num": 624,
+            "name": "Pawniard",
+            "types": [
+                "Buio",
+                "Acciaio"
+            ],
+            "height": 0.5,
+            "weight": 10.2,
+            "description": "Le lame compongono l'intero corpo di questo Pokémon. Se il combattimento appanna le lame, le affila su pietre lungo il fiume.",
+            "img": "https://serebii.net/pokemon/art/624.png"
+        },
+        {
+            "num": 625,
+            "name": "Bisharp",
+            "types": [
+                "Buio",
+                "Acciaio"
+            ],
+            "height": 1.6,
+            "weight": 70,
+            "description": "Guida un gruppo di Pawniard. Combatte per diventare il capo, ma sarà cacciato dal gruppo se perde.",
+            "img": "https://serebii.net/pokemon/art/625.png"
+        },
+        {
+            "num": 626,
+            "name": "Bouffalant",
+            "types": [
+                "Normale"
+            ],
+            "height": 1.6,
+            "weight": 94.6,
+            "description": "Caricano selvaggiamente e sbattono contro tutto. I loro sbattimenti hanno una forza distruttiva sufficiente a deragliare un treno.",
+            "img": "https://serebii.net/pokemon/art/626.png"
+        },
+        {
+            "num": 627,
+            "name": "Rufflet",
+            "types": [
+                "Normale",
+                "Volante"
+            ],
+            "height": 0.5,
+            "weight": 10.5,
+            "description": "Schiacciano le bacche con i loro artigli. Affrontano coraggiosamente qualsiasi avversario, per quanto forte sia.",
+            "img": "https://serebii.net/pokemon/art/627.png"
+        },
+        {
+            "num": 628,
+            "name": "Braviary",
+            "types": [
+                "Normale",
+                "Volante"
+            ],
+            "height": 1.5,
+            "weight": 41,
+            "description": "Questo Pokémon ama molto la battaglia e non indietreggia di fronte a nulla. Affronterà qualsiasi pericolo per proteggere i suoi simili.",
+            "img": "https://serebii.net/pokemon/art/628.png"
+        },
+        {
+            "num": 629,
+            "name": "Vullaby",
+            "types": [
+                "Buio",
+                "Volante"
+            ],
+            "height": 0.5,
+            "weight": 9,
+            "description": "Le sue ali sono troppo piccole per permettergli di volare. Man mano che si avvicina il momento di evolversi, si sbarazza delle ossa che indossava.",
+            "img": "https://serebii.net/pokemon/art/629.png"
+        },
+        {
+            "num": 630,
+            "name": "Mandibuzz",
+            "types": [
+                "Buio",
+                "Volante"
+            ],
+            "height": 1.2,
+            "weight": 39.5,
+            "description": "Costruisce un nido con le ossa che trova. Afferra le prede indebolite nei suoi artigli e le trascina nel suo nido di ossa.",
+            "img": "https://serebii.net/pokemon/art/630.png"
+        },
+        {
+            "num": 631,
+            "name": "Heatmor",
+            "types": [
+                "Fuoco"
+            ],
+            "height": 1.4,
+            "weight": 58,
+            "description": "Usano le loro lingue coperte di fiamme molto calde per bruciare i corpi d'acciaio di Durant e consumarne l'interno.",
+            "img": "https://serebii.net/pokemon/art/631.png"
+        },
+        {
+            "num": 632,
+            "name": "Durant",
+            "types": [
+                "Coleott.",
+                "Acciaio"
+            ],
+            "height": 0.3,
+            "weight": 33,
+            "description": "Durant scava tane in montagna. Costruiscono i loro tunnel complicati e interconnessi in labirinti.",
+            "img": "https://serebii.net/pokemon/art/632.png"
+        },
+        {
+            "num": 633,
+            "name": "Deino",
+            "types": [
+                "Buio",
+                "Drago"
+            ],
+            "height": 0.8,
+            "weight": 17.3,
+            "description": "Non possono vedere, quindi affrontano e mordono per imparare il loro ambiente. I loro corpi sono coperti di ferite.",
+            "img": "https://serebii.net/pokemon/art/633.png"
+        },
+        {
+            "num": 634,
+            "name": "Zweilous",
+            "types": [
+                "Buio",
+                "Drago"
+            ],
+            "height": 1.4,
+            "weight": 50,
+            "description": "Dopo aver mangiato tutto il cibo nel suo territorio, si sposta in un'altra area. Le sue due teste non vanno d'accordo.",
+            "img": "https://serebii.net/pokemon/art/634.png"
+        },
+        {
+            "num": 635,
+            "name": "Hydreigon",
+            "types": [
+                "Buio",
+                "Drago"
+            ],
+            "height": 1.8,
+            "weight": 160,
+            "description": "Le teste sui loro arti non hanno cervelli. Usano tutte e tre le teste per consumare e distruggere tutto.",
+            "img": "https://serebii.net/pokemon/art/635.png"
+        },
+        {
+            "num": 636,
+            "name": "Larvesta",
+            "types": [
+                "Coleott.",
+                "Fuoco"
+            ],
+            "height": 1.1,
+            "weight": 28.8,
+            "description": "Nasce in un vulcano attivo. Il suo corpo è sempre avvolto dalle fiamme, quindi sembra una grande palla di fuoco.",
+            "img": "https://serebii.net/pokemon/art/636.png"
+        },
+        {
+            "num": 637,
+            "name": "Volcarona",
+            "types": [
+                "Coleott.",
+                "Fuoco"
+            ],
+            "height": 1.6,
+            "weight": 46,
+            "description": "Un mare di fuoco avvolge i dintorni delle loro battaglie, poiché usano le loro sei ali per sparare le loro scaglie ardenti.",
+            "img": "https://serebii.net/pokemon/art/637.png"
+        },
+        {
+            "num": 638,
+            "name": "Cobalion",
+            "types": [
+                "Acciaio",
+                "Lotta"
+            ],
+            "height": 2.1,
+            "weight": 250,
+            "description": "Ha un corpo e un cuore d'acciaio. Il suo sguardo è sufficiente a fare obbedire persino a un Pokémon indisciplinato.",
+            "img": "https://serebii.net/pokemon/art/638.png"
+        },
+        {
+            "num": 639,
+            "name": "Terrakion",
+            "types": [
+                "Roccia",
+                "Lotta"
+            ],
+            "height": 1.9,
+            "weight": 260,
+            "description": "La sua carica è abbastanza forte da rompere una grande parete del castello in un solo colpo. Di questo Pokémon si parla nelle leggende.",
+            "img": "https://serebii.net/pokemon/art/639.png"
+        },
+        {
+            "num": 640,
+            "name": "Virizion",
+            "types": [
+                "Erba",
+                "Lotta"
+            ],
+            "height": 2,
+            "weight": 200,
+            "description": "Questo Pokémon ha combattuto gli umani per proteggere i suoi amici. Le leggende su di lui continuano a essere tramandate.",
+            "img": "https://serebii.net/pokemon/art/640.png"
+        },
+        {
+            "num": 641,
+            "name": "Tornadus",
+            "types": [
+                "Volante"
+            ],
+            "height": 1.5,
+            "weight": 63,
+            "description": "Tornadus emette un'energia massiccia dalla sua coda, causando tempeste severe. La sua potenza è sufficiente a soffiare via le case.",
+            "img": "https://serebii.net/pokemon/art/641.png"
+        },
+        {
+            "num": 642,
+            "name": "Thundurus",
+            "types": [
+                "Elettro",
+                "Volante"
+            ],
+            "height": 1.5,
+            "weight": 61,
+            "description": "Innumerevoli resti carbonizzati deturpano il paesaggio dei luoghi attraversati da Thundurus.",
+            "img": "https://serebii.net/pokemon/art/642.png"
+        },
+        {
+            "num": 643,
+            "name": "Reshiram",
+            "types": [
+                "Drago",
+                "Fuoco"
+            ],
+            "height": 3.2,
+            "weight": 330,
+            "description": "Questo Pokémon leggendario può bruciare il mondo con il fuoco. Aiuta coloro che vogliono costruire un mondo di verità.",
+            "img": "https://serebii.net/pokemon/art/643.png"
+        },
+        {
+            "num": 644,
+            "name": "Zekrom",
+            "types": [
+                "Drago",
+                "Elettro"
+            ],
+            "height": 2.9,
+            "weight": 345,
+            "description": "Questo Pokémon leggendario può bruciare il mondo con i fulmini. Aiuta coloro che vogliono costruire un mondo ideale.",
+            "img": "https://serebii.net/pokemon/art/644.png"
+        },
+        {
+            "num": 645,
+            "name": "Landorus",
+            "types": [
+                "Terra",
+                "Volante"
+            ],
+            "height": 1.5,
+            "weight": 68,
+            "description": "L'energia che sgorga dalla sua coda aumenta la nutrizione nel terreno, facendo crescere le colture a dimensioni enormi.",
+            "img": "https://serebii.net/pokemon/art/645.png"
+        },
+        {
+            "num": 646,
+            "name": "Kyurem",
+            "types": [
+                "Drago",
+                "Ghiaccio"
+            ],
+            "height": 3,
+            "weight": 325,
+            "description": "Può produrre aria ultragelida. Il suo corpo è congelato.",
+            "img": "https://serebii.net/pokemon/art/646.png"
+        },
+        {
+            "num": 647,
+            "name": "Keldeo",
+            "types": [
+                "Acqua",
+                "Lotta"
+            ],
+            "height": 1.4,
+            "weight": 48.5,
+            "description": "Sparando acqua dai suoi zoccoli, può scivolare sull'acqua. Eccelle nell'uso di mosse a gambe durante le battaglie.",
+            "img": "https://serebii.net/pokemon/art/647.png"
+        },
+        {
+            "num": 648,
+            "name": "Meloetta",
+            "types": [
+                "Normale",
+                "Psico"
+            ],
+            "height": 0.6,
+            "weight": 6.5,
+            "description": "Le melodie cantate da Meloetta hanno il potere di rendere felici o tristi i Pokémon che le ascoltano.",
+            "img": "https://serebii.net/pokemon/art/648.png"
+        },
+        {
+            "num": 649,
+            "name": "Genesect",
+            "types": [
+                "Coleott.",
+                "Acciaio"
+            ],
+            "height": 1.5,
+            "weight": 82.5,
+            "description": "300 milioni di anni fa era temuto come il più forte fra i cacciatori. È stato modificato dal Team Plasma.",
+            "img": "https://serebii.net/pokemon/art/649.png"
+        }
+    ]
 }
